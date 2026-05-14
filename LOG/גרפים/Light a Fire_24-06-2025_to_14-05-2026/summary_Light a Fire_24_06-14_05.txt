@@ -1,0 +1,9 @@
+Summary from 2025-06-24 00:00:00 to 2026-05-14 23:59:59 (325 days)
+Log data time range: 2025-06-26 09:33:31 to 2026-05-14 10:20:44 (323 days)
+
+Total Flames reached:: 4497
+
+---
+UI restarts between 09:30 and 18:00: 121
+Arduino disconnections between 09:30 and 18:00: 0
+Error parsing data: 0
