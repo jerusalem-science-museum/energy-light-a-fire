@@ -1,0 +1,6 @@
+logs/
+video/
+__pycache__/
+.venv/
+.idea/
+anydesk.txt
