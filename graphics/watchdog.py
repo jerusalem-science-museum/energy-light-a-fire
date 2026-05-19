@@ -1,6 +1,10 @@
 import time
 import subprocess
-import wmi
+import pyudev
+
+context = pyudev.Context()
+monitor = pyudev.Monitor.from_netlink(context)
+monitor.filter_by(subsystem='usb')
 
 SCRIPT_PATH = "python main.py"
 
@@ -14,18 +18,20 @@ def run_script():
     print("Running script...")
     process = subprocess.Popen(SCRIPT_PATH.split())
 
-def is_target_device(name):
-    name_upper = (name or '').upper()
-    return 'CH340' in name_upper or 'USB CAMERA' in name_upper
+def is_target_device(device):
+    attrs = [
+        device.get('ID_MODEL', ''),
+        device.get('ID_MODEL_ENC', ''),
+        device.get('ID_USB_DRIVER', ''),
+        device.get('ID_VENDOR', ''),
+    ]
+    combined = ' '.join(attrs).upper()
+    return 'CH340' in combined or 'USB CAMERA' in combined or 'USB_CAMERA' in combined
 
 run_script()
 
-c = wmi.WMI()
-watcher = c.Win32_PnPEntity.watch_for(notification_type="Creation", delay_secs=1)
-
-while True:
-    device = watcher()
-    if is_target_device(device.Name):
-        print(f"Target device reconnected: {device.Name}")
+for device in iter(monitor.poll, None):
+    if device.action == 'add' and is_target_device(device):
+        print(f"Target device reconnected: {device.get('ID_MODEL', 'unknown')}")
         run_script()
         time.sleep(2)
