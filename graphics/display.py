@@ -7,6 +7,28 @@ import numpy as np
 import cv2
 import time
 
+def robust_reconnect():
+    # Try infinite reconnect w common indexes in case the OS shifted the camera path
+    while True:
+        for index in [0, 1, 2]:
+            print(f"Trying to connect to camera index {index}...")
+            cap = cv2.VideoCapture(index)
+            
+            if cap.isOpened():
+                # FLUSH THE BUFFER: Grab a few frames immediately to clear out 
+                # any initial initialization garbage/blank frames.
+                for _ in range(5):
+                    ret, frame = cap.read()
+                    time.sleep(0.1) # tiny sleep between buffer reads
+                    
+                # Now check if it's genuinely feeding data
+                ret, frame = cap.read()
+                if ret and frame is not None:
+                    print(f"Success! Camera found and working on index {index}")
+                    return cap
+                
+                # Opened, but feeding empty frames? Release and try next index.
+                cap.release()
 
 def camera_init():
     while True:
@@ -31,9 +53,29 @@ def camera_init():
 def camera_setup(screen, cap: cv2.VideoCapture):
     ret, frame = cap.read()
     if not ret:
-        print("Erreur lors de la lecture de la caméra, trying tö récönnéct")
-        cap.release()
-        cap = camera_init()
+        print("Erreur lors de la lecture de la caméra, trying tö réread")
+        recovered = False
+        for attempt in range(10):  # Try 10 times quickly
+            time.sleep(0.1)        # Sleep for 100ms (Total max wait: 1 second)
+            ret, frame = cap.read()
+        
+            if ret and frame is not None:
+                print(f"Recovered stream after {attempt + 1} soft retries!")
+                recovered = True
+                break
+        if not recovered:
+            print("Camera is truly disconnected. Initiating full reset...")
+            # Only NOW do you do cap.release() and run your full reconnection routine
+            cap.release()
+            time.sleep(2)
+            print('start reset')
+            cap = robust_reconnect() 
+            if cap is None: # this won't actually ever happen, we'll just get stuck in the reconnect loop.
+                return None
+            else:
+                ret, frame = cap.read()
+        # cap.release()
+        # cap = camera_init()
 
     frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)  # Convertir l'image BGR (OpenCV) en RGB (Pygame)
     # frame_rgb = np.rot90(frame_rgb)  # Corriger l'orientation si nécessaire
@@ -41,7 +83,7 @@ def camera_setup(screen, cap: cv2.VideoCapture):
     frame_surface = pygame.image.frombuffer(frame_rgb.tobytes(), frame_rgb.shape[1::-1], "RGB")
     frame_surface = pygame.transform.scale(frame_surface, VIEW_PORT)
     screen.blit(frame_surface, (0, 0))
-    return True
+    return cap
 
 
 def display_measure(screen, Temperature=MIN_TEMPERATURE_DEFAULT):
@@ -137,5 +179,4 @@ def display_bars(screen, temperature=MIN_TEMPERATURE_VALUE):
         screen.blit(cropped_bar, THERMOMETER_POS)
 
     display_bar_from_values(screen, temperature, MAX_TEMPERATURE_VALUE, MIN_TEMPERATURE_DEFAULT, full_thermometer)
-
 

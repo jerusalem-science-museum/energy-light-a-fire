@@ -101,7 +101,9 @@ def main():
                                                                last_peak_temperature)
         # state, last_peak_temperature = log_temperature(logger, temperature, state, last_peak_temperature=None)
         screen.fill(BLACK)  # reset screen
-        running = camera_setup(screen, cap)
+        cap = camera_setup(screen, cap)
+        if cap is None:
+            Quit_pygame(cap)
         display_measure(screen, Temperature=temperature_to_display)  # render the screen
         pygame.display.flip()
         clock.tick(FPS)
