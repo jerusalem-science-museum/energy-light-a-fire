@@ -24,14 +24,16 @@ def camera_init():
         except Exception as e:
             print(
                 "Error: Could not open camera. please check if the camera is connected properly.\nRetrying in 2 seconds...\n")
+            time.sleep(2)
             pass
 
 
-def camera_setup(screen, cap):
+def camera_setup(screen, cap: cv2.VideoCapture):
     ret, frame = cap.read()
     if not ret:
-        print("Erreur lors de la lecture de la caméra")
-        return False
+        print("Erreur lors de la lecture de la caméra, trying tö récönnéct")
+        cap.release()
+        cap = camera_init()
 
     frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)  # Convertir l'image BGR (OpenCV) en RGB (Pygame)
     # frame_rgb = np.rot90(frame_rgb)  # Corriger l'orientation si nécessaire
