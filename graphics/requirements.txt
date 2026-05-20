@@ -1,5 +1,4 @@
 pygame
 pyserial
 opencv-python
-pyudev
 numpy
