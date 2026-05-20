@@ -26,7 +26,8 @@ def main():
     pygame.display.set_caption("Light a Fire")
     screen = pygame.display.set_mode(VIEW_PORT, pygame.FULLSCREEN)
     # screen = pygame.display.set_mode(VIEW_PORT)
-
+    pygame.mouse.set_visible(False)
+    
     clock = pygame.time.Clock()  # for fps limit
 
     # initial values for th
