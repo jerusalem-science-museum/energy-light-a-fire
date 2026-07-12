@@ -1,0 +1,1688 @@
+2026-05-19 11:49:43 - Starting Light a Fire UI
+2026-05-19 11:49:43 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 11:49:44 - Connected to /dev/ttyUSB0
+2026-05-19 11:51:51 - Starting Light a Fire UI
+2026-05-19 11:51:51 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 11:51:51 - Connected to /dev/ttyUSB0
+2026-05-19 11:51:59 - Error reading from serial, Arduino probably disconnected
+2026-05-19 11:51:59 - Arduino disconnected. Trying to reconnect to Arduino...
+2026-05-19 11:51:59 - Error: Arduino not found
+2026-05-19 11:52:10 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 11:52:10 - Connected to /dev/ttyUSB0
+2026-05-19 11:52:51 - Starting Light a Fire UI
+2026-05-19 11:52:51 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 11:52:51 - Connected to /dev/ttyUSB0
+2026-05-19 11:59:17 - Starting Light a Fire UI
+2026-05-19 11:59:17 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 11:59:17 - Connected to /dev/ttyUSB0
+2026-05-19 12:02:10 - Starting Light a Fire UI
+2026-05-19 12:02:10 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 12:02:10 - Connected to /dev/ttyUSB0
+2026-05-19 12:05:18 - Starting Light a Fire UI
+2026-05-19 12:05:18 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 12:05:18 - Connected to /dev/ttyUSB0
+2026-05-19 12:07:05 - Peak temperature reached: 33.68°C
+2026-05-19 12:07:23 - Peak temperature reached: 31.69°C
+2026-05-19 12:07:56 - Peak temperature reached: 29.73°C
+2026-05-19 12:10:21 - Peak temperature reached: 31.30°C
+2026-05-19 12:12:08 - Peak temperature reached: 29.34°C
+2026-05-19 12:16:48 - Peak temperature reached: 27.41°C
+2026-05-19 12:29:04 - Peak temperature reached: 31.93°C
+2026-05-19 12:29:30 - Peak temperature reached: 29.92°C
+2026-05-19 12:31:00 - Peak temperature reached: 29.74°C
+2026-05-19 12:31:52 - Peak temperature reached: 30.19°C
+2026-05-19 12:33:02 - Peak temperature reached: 28.26°C
+2026-05-19 12:37:24 - Peak temperature reached: 31.85°C
+2026-05-19 12:38:30 - Peak temperature reached: 29.88°C
+2026-05-19 12:40:42 - Peak temperature reached: 29.14°C
+2026-05-19 12:43:23 - Peak temperature reached: 35.28°C
+2026-05-19 12:44:51 - Starting Light a Fire UI
+2026-05-19 12:44:51 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 12:44:51 - Connected to /dev/ttyUSB0
+2026-05-19 12:45:21 - Starting Light a Fire UI
+2026-05-19 12:45:21 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 12:45:21 - Connected to /dev/ttyUSB0
+2026-05-19 12:46:51 - Peak temperature reached: 33.99°C
+2026-05-19 12:47:13 - Peak temperature reached: 31.93°C
+2026-05-19 12:48:01 - Peak temperature reached: 29.97°C
+2026-05-19 12:51:16 - Peak temperature reached: 28.15°C
+2026-05-19 12:53:55 - Peak temperature reached: 27.90°C
+2026-05-19 12:55:03 - Peak temperature reached: 31.16°C
+2026-05-19 12:55:46 - Peak temperature reached: 29.17°C
+2026-05-19 13:03:11 - Peak temperature reached: 27.29°C
+2026-05-19 13:05:06 - Peak temperature reached: 28.07°C
+2026-05-19 13:11:31 - Peak temperature reached: 27.25°C
+2026-05-19 13:14:03 - Peak temperature reached: 32.11°C
+2026-05-19 13:14:47 - Peak temperature reached: 30.12°C
+2026-05-19 13:16:26 - Peak temperature reached: 28.11°C
+2026-05-19 13:36:40 - Peak temperature reached: 29.84°C
+2026-05-19 13:38:11 - Peak temperature reached: 27.87°C
+2026-05-19 13:41:33 - Peak temperature reached: 27.82°C
+2026-05-19 14:23:42 - Peak temperature reached: 26.54°C
+2026-05-19 14:40:06 - Peak temperature reached: 26.49°C
+2026-05-19 15:16:22 - Peak temperature reached: 28.02°C
+2026-05-19 15:17:52 - Peak temperature reached: 28.89°C
+2026-05-19 15:19:04 - Peak temperature reached: 31.52°C
+2026-05-19 15:19:39 - Peak temperature reached: 29.47°C
+2026-05-19 15:24:47 - Peak temperature reached: 42.71°C
+2026-05-19 15:28:46 - Peak temperature reached: 32.05°C
+2026-05-19 15:31:12 - Peak temperature reached: 30.09°C
+2026-05-19 15:36:24 - Peak temperature reached: 28.25°C
+2026-05-19 16:05:03 - Peak temperature reached: 26.65°C
+2026-05-19 16:18:31 - Peak temperature reached: 28.91°C
+2026-05-19 16:21:55 - Peak temperature reached: 26.99°C
+2026-05-19 17:06:15 - Peak temperature reached: 27.42°C
+2026-05-19 17:11:18 - Starting Light a Fire UI
+2026-05-19 17:11:18 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 17:11:18 - Connected to /dev/ttyUSB0
+2026-05-19 17:13:31 - Starting Light a Fire UI
+2026-05-19 17:13:31 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 17:13:31 - Connected to /dev/ttyUSB0
+2026-05-19 17:15:36 - Starting Light a Fire UI
+2026-05-19 17:15:36 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 17:15:36 - Connected to /dev/ttyUSB0
+2026-05-19 17:20:06 - Starting Light a Fire UI
+2026-05-19 17:20:06 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 17:20:06 - Connected to /dev/ttyUSB0
+2026-05-19 17:54:13 - Starting Light a Fire UI
+2026-05-19 17:54:13 - Found Arduino! port: /dev/ttyUSB0
+2026-05-19 17:54:13 - Connected to /dev/ttyUSB0
+2026-05-20 09:28:24 - Peak temperature reached: 27.19°C
+2026-05-20 09:30:05 - Peak temperature reached: 30.24°C
+2026-05-20 09:30:29 - Peak temperature reached: 28.20°C
+2026-05-20 09:31:11 - Peak temperature reached: 29.29°C
+2026-05-20 09:32:21 - Peak temperature reached: 27.91°C
+2026-05-20 09:33:50 - Peak temperature reached: 34.15°C
+2026-05-20 09:34:05 - Peak temperature reached: 31.94°C
+2026-05-20 09:34:33 - Peak temperature reached: 29.90°C
+2026-05-20 09:36:32 - Peak temperature reached: 27.92°C
+2026-05-20 09:39:48 - Peak temperature reached: 26.37°C
+2026-05-20 09:42:17 - Peak temperature reached: 31.14°C
+2026-05-20 09:42:45 - Peak temperature reached: 29.09°C
+2026-05-20 11:10:34 - Starting Light a Fire UI
+2026-05-20 11:10:34 - Found Arduino! port: /dev/ttyUSB0
+2026-05-20 11:10:34 - Connected to /dev/ttyUSB0
+2026-05-20 11:11:04 - Starting Light a Fire UI
+2026-05-20 11:11:04 - Found Arduino! port: /dev/ttyUSB0
+2026-05-20 11:11:04 - Connected to /dev/ttyUSB0
+2026-05-20 11:49:37 - Peak temperature reached: 27.44°C
+2026-05-20 11:52:56 - Peak temperature reached: 28.32°C
+2026-05-20 11:58:15 - Peak temperature reached: 27.38°C
+2026-05-20 12:04:26 - Peak temperature reached: 31.46°C
+2026-05-20 12:06:26 - Peak temperature reached: 46.12°C
+2026-05-20 12:08:27 - Peak temperature reached: 31.95°C
+2026-05-20 12:10:34 - Peak temperature reached: 29.97°C
+2026-05-20 12:15:29 - Peak temperature reached: 45.35°C
+2026-05-20 12:21:11 - Peak temperature reached: 43.06°C
+2026-05-20 12:25:12 - Peak temperature reached: 31.99°C
+2026-05-20 12:27:34 - Peak temperature reached: 32.35°C
+2026-05-20 12:28:55 - Peak temperature reached: 30.33°C
+2026-05-20 12:33:23 - Peak temperature reached: 28.38°C
+2026-05-20 12:35:54 - Starting Light a Fire UI
+2026-05-20 12:35:54 - Found Arduino! port: /dev/ttyUSB0
+2026-05-20 12:35:54 - Connected to /dev/ttyUSB0
+2026-05-20 12:41:38 - Peak temperature reached: 27.97°C
+2026-05-20 12:45:19 - Peak temperature reached: 30.73°C
+2026-05-20 12:47:15 - Peak temperature reached: 29.01°C
+2026-05-20 12:48:36 - Peak temperature reached: 29.26°C
+2026-05-20 12:55:19 - Peak temperature reached: 28.04°C
+2026-05-20 13:37:54 - Peak temperature reached: 27.29°C
+2026-05-20 13:40:15 - Peak temperature reached: 27.43°C
+2026-05-20 13:50:50 - Peak temperature reached: 26.69°C
+2026-05-20 17:41:42 - Starting Light a Fire UI
+2026-05-20 17:41:42 - Found Arduino! port: /dev/ttyUSB0
+2026-05-20 17:41:42 - Connected to /dev/ttyUSB0
+2026-05-20 18:35:05 - Starting Light a Fire UI
+2026-05-20 18:35:05 - Found Arduino! port: /dev/ttyUSB0
+2026-05-20 18:35:05 - Connected to /dev/ttyUSB0
+2026-05-21 10:46:47 - Peak temperature reached: 24.63°C
+2026-05-21 10:53:33 - Peak temperature reached: 26.74°C
+2026-05-21 11:06:24 - Peak temperature reached: 24.84°C
+2026-05-21 12:13:54 - Peak temperature reached: 28.36°C
+2026-05-21 12:14:30 - Peak temperature reached: 26.79°C
+2026-05-21 12:29:04 - Peak temperature reached: 25.24°C
+2026-05-21 12:53:55 - Starting Light a Fire UI
+2026-05-21 12:53:55 - Found Arduino! port: /dev/ttyUSB0
+2026-05-21 12:53:55 - Connected to /dev/ttyUSB0
+2026-05-22 09:39:21 - Starting Light a Fire UI
+2026-05-22 09:39:21 - Found Arduino! port: /dev/ttyUSB0
+2026-05-22 09:39:21 - Connected to /dev/ttyUSB0
+2026-05-22 10:33:31 - Peak temperature reached: 24.75°C
+2026-05-22 10:41:55 - Peak temperature reached: 35.85°C
+2026-05-22 10:44:08 - Peak temperature reached: 31.98°C
+2026-05-22 10:44:48 - Peak temperature reached: 29.98°C
+2026-05-22 10:47:23 - Peak temperature reached: 28.19°C
+2026-05-22 10:52:10 - Peak temperature reached: 26.24°C
+2026-05-22 12:05:18 - Peak temperature reached: 30.22°C
+2026-05-22 12:05:38 - Peak temperature reached: 28.18°C
+2026-05-22 12:06:47 - Peak temperature reached: 27.48°C
+2026-05-22 12:15:11 - Peak temperature reached: 28.32°C
+2026-05-22 12:17:11 - Peak temperature reached: 26.34°C
+2026-05-22 12:20:04 - Peak temperature reached: 25.98°C
+2026-05-22 12:31:43 - Peak temperature reached: 27.12°C
+2026-05-22 12:35:38 - Peak temperature reached: 26.88°C
+2026-05-22 12:38:13 - Peak temperature reached: 27.37°C
+2026-05-22 12:45:15 - Peak temperature reached: 30.66°C
+2026-05-22 12:45:51 - Peak temperature reached: 28.70°C
+2026-05-22 12:50:12 - Peak temperature reached: 27.14°C
+2026-05-22 12:56:31 - Peak temperature reached: 28.49°C
+2026-05-22 12:58:18 - Peak temperature reached: 28.05°C
+2026-05-22 13:08:20 - Peak temperature reached: 29.27°C
+2026-05-22 13:14:00 - Peak temperature reached: 27.32°C
+2026-05-22 13:24:06 - Peak temperature reached: 33.19°C
+2026-05-22 13:24:26 - Peak temperature reached: 31.14°C
+2026-05-22 13:25:05 - Peak temperature reached: 29.12°C
+2026-05-22 13:35:51 - Peak temperature reached: 28.03°C
+2026-05-22 13:42:09 - Peak temperature reached: 27.72°C
+2026-05-22 13:59:00 - Peak temperature reached: 29.04°C
+2026-05-22 14:40:42 - Peak temperature reached: 31.14°C
+2026-05-22 14:42:01 - Peak temperature reached: 29.16°C
+2026-05-22 14:46:23 - Peak temperature reached: 40.42°C
+2026-05-22 14:48:31 - Peak temperature reached: 32.02°C
+2026-05-22 14:50:34 - Peak temperature reached: 30.07°C
+2026-05-22 15:05:42 - Peak temperature reached: 28.17°C
+2026-05-22 15:40:39 - Peak temperature reached: 28.28°C
+2026-05-22 15:20:50 - Starting Light a Fire UI
+2026-05-22 15:20:50 - Found Arduino! port: /dev/ttyUSB0
+2026-05-22 15:20:50 - Connected to /dev/ttyUSB0
+2026-05-23 10:33:16 - Peak temperature reached: 26.60°C
+2026-05-23 12:04:30 - Peak temperature reached: 29.20°C
+2026-05-23 12:05:30 - Peak temperature reached: 27.39°C
+2026-05-23 12:15:35 - Peak temperature reached: 29.09°C
+2026-05-23 12:18:43 - Peak temperature reached: 28.37°C
+2026-05-23 12:20:18 - Peak temperature reached: 27.69°C
+2026-05-23 12:24:20 - Peak temperature reached: 28.47°C
+2026-05-23 12:29:13 - Peak temperature reached: 26.61°C
+2026-05-23 12:31:52 - Peak temperature reached: 28.63°C
+2026-05-23 12:34:53 - Peak temperature reached: 26.74°C
+2026-05-23 12:36:41 - Peak temperature reached: 37.92°C
+2026-05-23 12:37:05 - Peak temperature reached: 31.96°C
+2026-05-23 12:37:27 - Peak temperature reached: 30.00°C
+2026-05-23 12:38:45 - Peak temperature reached: 28.11°C
+2026-05-23 12:39:14 - Peak temperature reached: 28.88°C
+2026-05-23 12:39:49 - Peak temperature reached: 30.16°C
+2026-05-23 12:41:14 - Peak temperature reached: 28.16°C
+2026-05-23 12:44:57 - Peak temperature reached: 27.77°C
+2026-05-23 12:46:21 - Peak temperature reached: 36.08°C
+2026-05-23 12:47:28 - Peak temperature reached: 31.97°C
+2026-05-23 12:48:31 - Peak temperature reached: 30.06°C
+2026-05-23 12:50:40 - Peak temperature reached: 31.61°C
+2026-05-23 12:52:50 - Peak temperature reached: 29.74°C
+2026-05-23 12:54:38 - Peak temperature reached: 30.96°C
+2026-05-23 12:56:34 - Peak temperature reached: 38.44°C
+2026-05-23 12:57:40 - Peak temperature reached: 31.99°C
+2026-05-23 12:58:34 - Peak temperature reached: 31.71°C
+2026-05-23 12:59:43 - Peak temperature reached: 29.77°C
+2026-05-23 13:01:48 - Peak temperature reached: 28.27°C
+2026-05-23 13:12:55 - Peak temperature reached: 29.40°C
+2026-05-23 13:15:19 - Peak temperature reached: 27.41°C
+2026-05-23 13:22:25 - Peak temperature reached: 29.15°C
+2026-05-23 13:29:57 - Peak temperature reached: 27.25°C
+2026-05-23 13:34:02 - Peak temperature reached: 28.11°C
+2026-05-23 13:45:56 - Peak temperature reached: 30.81°C
+2026-05-23 13:47:30 - Peak temperature reached: 28.82°C
+2026-05-23 13:48:49 - Peak temperature reached: 31.46°C
+2026-05-23 13:49:44 - Peak temperature reached: 29.47°C
+2026-05-23 13:54:17 - Peak temperature reached: 42.46°C
+2026-05-23 13:56:49 - Peak temperature reached: 32.02°C
+2026-05-23 13:58:14 - Peak temperature reached: 30.04°C
+2026-05-23 14:05:44 - Peak temperature reached: 28.16°C
+2026-05-23 14:15:15 - Peak temperature reached: 27.53°C
+2026-05-23 14:23:37 - Peak temperature reached: 29.16°C
+2026-05-23 14:26:09 - Peak temperature reached: 27.52°C
+2026-05-23 14:35:16 - Peak temperature reached: 27.57°C
+2026-05-23 14:46:06 - Peak temperature reached: 38.69°C
+2026-05-23 14:47:03 - Peak temperature reached: 31.96°C
+2026-05-23 14:48:37 - Peak temperature reached: 31.18°C
+2026-05-23 14:53:54 - Peak temperature reached: 29.16°C
+2026-05-23 14:56:53 - Peak temperature reached: 27.22°C
+2026-05-23 15:15:31 - Peak temperature reached: 45.07°C
+2026-05-23 15:17:14 - Peak temperature reached: 32.01°C
+2026-05-23 15:19:51 - Peak temperature reached: 30.53°C
+2026-05-23 15:22:10 - Peak temperature reached: 28.55°C
+2026-05-23 15:27:40 - Peak temperature reached: 45.94°C
+2026-05-23 15:29:50 - Peak temperature reached: 32.05°C
+2026-05-23 15:31:15 - Peak temperature reached: 30.04°C
+2026-05-23 15:38:49 - Peak temperature reached: 28.09°C
+2026-05-23 15:35:31 - Starting Light a Fire UI
+2026-05-23 15:35:31 - Found Arduino! port: /dev/ttyUSB0
+2026-05-23 15:35:31 - Connected to /dev/ttyUSB0
+2026-05-24 10:03:59 - Starting Light a Fire UI
+2026-05-24 10:03:59 - Found Arduino! port: /dev/ttyUSB0
+2026-05-24 10:03:59 - Connected to /dev/ttyUSB0
+2026-05-24 10:05:00 - Starting Light a Fire UI
+2026-05-24 10:05:01 - Found Arduino! port: /dev/ttyUSB0
+2026-05-24 10:05:01 - Connected to /dev/ttyUSB0
+2026-05-24 15:22:20 - Starting Light a Fire UI
+2026-05-24 15:22:21 - Found Arduino! port: /dev/ttyUSB0
+2026-05-24 15:22:21 - Connected to /dev/ttyUSB0
+2026-05-25 10:42:29 - Peak temperature reached: 25.02°C
+2026-05-25 11:04:07 - Peak temperature reached: 25.74°C
+2026-05-25 11:56:50 - Peak temperature reached: 27.55°C
+2026-05-25 12:03:04 - Peak temperature reached: 27.00°C
+2026-05-25 12:07:22 - Peak temperature reached: 28.78°C
+2026-05-25 12:10:47 - Peak temperature reached: 28.99°C
+2026-05-25 12:11:58 - Peak temperature reached: 29.46°C
+2026-05-25 12:18:34 - Peak temperature reached: 31.28°C
+2026-05-25 12:23:17 - Peak temperature reached: 29.72°C
+2026-05-25 12:27:05 - Peak temperature reached: 30.66°C
+2026-05-25 12:29:08 - Peak temperature reached: 28.69°C
+2026-05-25 12:48:30 - Peak temperature reached: 31.63°C
+2026-05-25 12:49:27 - Peak temperature reached: 29.66°C
+2026-05-25 12:51:48 - Peak temperature reached: 29.18°C
+2026-05-25 12:54:41 - Peak temperature reached: 28.50°C
+2026-05-25 13:17:35 - Starting Light a Fire UI
+2026-05-25 13:17:35 - Found Arduino! port: /dev/ttyUSB0
+2026-05-25 13:17:35 - Connected to /dev/ttyUSB0
+2026-05-25 14:12:55 - Peak temperature reached: 27.36°C
+2026-05-25 14:25:46 - Peak temperature reached: 28.68°C
+2026-05-25 14:30:22 - Peak temperature reached: 37.38°C
+2026-05-25 14:34:11 - Peak temperature reached: 32.01°C
+2026-05-25 14:37:41 - Peak temperature reached: 36.94°C
+2026-05-25 14:39:01 - Peak temperature reached: 32.02°C
+2026-05-25 14:41:22 - Peak temperature reached: 30.05°C
+2026-05-25 17:17:45 - Peak temperature reached: 28.12°C
+2026-05-25 17:26:40 - Peak temperature reached: 28.64°C
+2026-05-25 17:38:45 - Peak temperature reached: 28.84°C
+2026-05-25 17:39:50 - Peak temperature reached: 31.65°C
+2026-05-25 17:40:37 - Peak temperature reached: 29.62°C
+2026-05-25 17:56:35 - Peak temperature reached: 28.45°C
+2026-05-25 18:01:00 - Starting Light a Fire UI
+2026-05-25 18:01:00 - Found Arduino! port: /dev/ttyUSB0
+2026-05-25 18:01:00 - Connected to /dev/ttyUSB0
+2026-05-25 18:02:00 - Starting Light a Fire UI
+2026-05-25 18:02:00 - Found Arduino! port: /dev/ttyUSB0
+2026-05-25 18:02:00 - Connected to /dev/ttyUSB0
+2026-05-26 10:00:06 - Peak temperature reached: 25.87°C
+2026-05-26 10:28:49 - Peak temperature reached: 26.40°C
+2026-05-26 10:35:33 - Peak temperature reached: 26.83°C
+2026-05-26 10:40:03 - Peak temperature reached: 27.27°C
+2026-05-26 10:41:50 - Peak temperature reached: 28.56°C
+2026-05-26 10:58:12 - Peak temperature reached: 26.81°C
+2026-05-26 11:57:20 - Peak temperature reached: 29.12°C
+2026-05-26 12:00:11 - Peak temperature reached: 29.59°C
+2026-05-26 12:02:42 - Peak temperature reached: 27.67°C
+2026-05-26 12:04:59 - Peak temperature reached: 28.69°C
+2026-05-26 12:11:28 - Peak temperature reached: 29.88°C
+2026-05-26 12:13:28 - Peak temperature reached: 27.92°C
+2026-05-26 12:21:32 - Peak temperature reached: 31.70°C
+2026-05-26 12:23:31 - Peak temperature reached: 30.75°C
+2026-05-26 12:26:51 - Peak temperature reached: 28.80°C
+2026-05-26 12:57:26 - Peak temperature reached: 29.45°C
+2026-05-26 13:53:03 - Peak temperature reached: 27.81°C
+2026-05-26 17:17:33 - Starting Light a Fire UI
+2026-05-26 17:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-05-26 17:17:33 - Connected to /dev/ttyUSB0
+2026-05-27 08:36:01 - Starting Light a Fire UI
+2026-05-27 08:36:01 - Found Arduino! port: /dev/ttyUSB0
+2026-05-27 08:36:01 - Connected to /dev/ttyUSB0
+2026-05-27 10:15:36 - Peak temperature reached: 25.75°C
+2026-05-27 12:46:41 - Peak temperature reached: 27.05°C
+2026-05-27 13:18:23 - Peak temperature reached: 26.45°C
+2026-05-27 13:54:52 - Peak temperature reached: 25.94°C
+2026-05-27 14:55:55 - Peak temperature reached: 29.82°C
+2026-05-27 14:57:04 - Peak temperature reached: 30.50°C
+2026-05-27 14:58:42 - Peak temperature reached: 30.89°C
+2026-05-27 15:00:15 - Peak temperature reached: 29.94°C
+2026-05-27 15:01:41 - Peak temperature reached: 30.34°C
+2026-05-27 15:04:37 - Peak temperature reached: 28.34°C
+2026-05-27 15:07:18 - Peak temperature reached: 27.50°C
+2026-05-27 15:31:20 - Peak temperature reached: 27.89°C
+2026-05-27 15:35:06 - Peak temperature reached: 28.82°C
+2026-05-27 15:36:14 - Peak temperature reached: 28.73°C
+2026-05-27 15:38:35 - Peak temperature reached: 27.60°C
+2026-05-27 17:12:33 - Peak temperature reached: 31.34°C
+2026-05-27 17:13:00 - Peak temperature reached: 29.33°C
+2026-05-27 17:14:38 - Peak temperature reached: 27.32°C
+2026-05-27 17:42:21 - Starting Light a Fire UI
+2026-05-27 17:42:21 - Found Arduino! port: /dev/ttyUSB0
+2026-05-27 17:42:21 - Connected to /dev/ttyUSB0
+2026-05-28 10:21:59 - Peak temperature reached: 26.34°C
+2026-05-28 10:23:37 - Peak temperature reached: 25.54°C
+2026-05-28 10:40:14 - Peak temperature reached: 26.40°C
+2026-05-28 10:43:10 - Peak temperature reached: 27.93°C
+2026-05-28 10:44:39 - Peak temperature reached: 27.27°C
+2026-05-28 10:47:32 - Peak temperature reached: 27.53°C
+2026-05-28 10:53:42 - Peak temperature reached: 25.76°C
+2026-05-28 11:09:50 - Peak temperature reached: 26.76°C
+2026-05-28 11:14:41 - Peak temperature reached: 26.52°C
+2026-05-28 12:01:39 - Peak temperature reached: 25.76°C
+2026-05-28 12:11:41 - Peak temperature reached: 25.79°C
+2026-05-28 12:26:17 - Peak temperature reached: 26.24°C
+2026-05-28 12:39:32 - Peak temperature reached: 41.94°C
+2026-05-28 12:41:24 - Peak temperature reached: 32.12°C
+2026-05-28 12:42:29 - Peak temperature reached: 30.12°C
+2026-05-28 12:45:00 - Peak temperature reached: 28.18°C
+2026-05-28 12:54:35 - Peak temperature reached: 28.13°C
+2026-05-28 12:58:00 - Peak temperature reached: 29.50°C
+2026-05-28 12:59:53 - Peak temperature reached: 28.48°C
+2026-05-28 13:02:24 - Peak temperature reached: 29.16°C
+2026-05-28 13:05:49 - Peak temperature reached: 27.19°C
+2026-05-28 13:15:44 - Peak temperature reached: 29.49°C
+2026-05-28 13:17:20 - Peak temperature reached: 27.50°C
+2026-05-28 14:15:55 - Peak temperature reached: 26.09°C
+2026-05-28 14:20:41 - Peak temperature reached: 32.01°C
+2026-05-28 14:21:03 - Peak temperature reached: 29.95°C
+2026-05-28 14:21:45 - Peak temperature reached: 28.02°C
+2026-05-28 14:26:13 - Peak temperature reached: 27.28°C
+2026-05-28 14:28:35 - Peak temperature reached: 29.11°C
+2026-05-28 14:30:29 - Peak temperature reached: 27.19°C
+2026-05-28 14:34:31 - Peak temperature reached: 29.68°C
+2026-05-28 14:35:56 - Peak temperature reached: 27.98°C
+2026-05-28 14:38:00 - Peak temperature reached: 27.49°C
+2026-05-28 14:46:27 - Peak temperature reached: 27.85°C
+2026-05-28 14:59:45 - Peak temperature reached: 29.47°C
+2026-05-28 15:03:52 - Peak temperature reached: 34.04°C
+2026-05-28 15:04:14 - Peak temperature reached: 31.98°C
+2026-05-28 15:05:39 - Peak temperature reached: 30.00°C
+2026-05-28 15:08:17 - Peak temperature reached: 28.04°C
+2026-05-28 15:28:00 - Peak temperature reached: 27.20°C
+2026-05-28 16:03:05 - Peak temperature reached: 26.31°C
+2026-05-28 16:19:14 - Peak temperature reached: 28.07°C
+2026-05-28 16:21:26 - Peak temperature reached: 28.03°C
+2026-05-28 16:42:35 - Peak temperature reached: 31.54°C
+2026-05-28 16:43:31 - Peak temperature reached: 29.53°C
+2026-05-28 16:48:53 - Peak temperature reached: 27.63°C
+2026-05-28 16:56:02 - Peak temperature reached: 27.61°C
+2026-05-28 17:01:58 - Peak temperature reached: 27.15°C
+2026-05-28 17:35:55 - Starting Light a Fire UI
+2026-05-28 17:35:55 - Found Arduino! port: /dev/ttyUSB0
+2026-05-28 17:35:55 - Connected to /dev/ttyUSB0
+2026-05-30 10:53:12 - Peak temperature reached: 25.41°C
+2026-05-30 10:56:30 - Peak temperature reached: 26.22°C
+2026-05-30 11:00:56 - Peak temperature reached: 34.22°C
+2026-05-30 11:02:03 - Peak temperature reached: 35.60°C
+2026-05-30 11:02:30 - Peak temperature reached: 31.99°C
+2026-05-30 11:03:01 - Peak temperature reached: 29.93°C
+2026-05-30 11:04:03 - Peak temperature reached: 27.91°C
+2026-05-30 11:07:27 - Peak temperature reached: 28.38°C
+2026-05-30 11:09:14 - Peak temperature reached: 26.40°C
+2026-05-30 11:14:52 - Peak temperature reached: 25.10°C
+2026-05-30 11:24:47 - Peak temperature reached: 27.72°C
+2026-05-30 11:26:22 - Peak temperature reached: 25.74°C
+2026-05-30 11:31:31 - Peak temperature reached: 27.83°C
+2026-05-30 11:33:28 - Peak temperature reached: 25.80°C
+2026-05-30 11:45:14 - Peak temperature reached: 33.39°C
+2026-05-30 11:45:33 - Peak temperature reached: 31.38°C
+2026-05-30 11:46:19 - Peak temperature reached: 29.35°C
+2026-05-30 11:49:01 - Peak temperature reached: 34.77°C
+2026-05-30 11:49:28 - Peak temperature reached: 31.91°C
+2026-05-30 11:51:07 - Peak temperature reached: 33.94°C
+2026-05-30 11:51:35 - Peak temperature reached: 31.94°C
+2026-05-30 11:52:14 - Peak temperature reached: 30.01°C
+2026-05-30 11:54:16 - Peak temperature reached: 30.64°C
+2026-05-30 11:55:25 - Peak temperature reached: 28.61°C
+2026-05-30 12:14:28 - Peak temperature reached: 26.90°C
+2026-05-30 12:27:11 - Peak temperature reached: 26.51°C
+2026-05-30 12:31:47 - Peak temperature reached: 30.73°C
+2026-05-30 12:32:07 - Peak temperature reached: 28.73°C
+2026-05-30 12:33:54 - Peak temperature reached: 26.81°C
+2026-05-30 12:35:48 - Peak temperature reached: 31.86°C
+2026-05-30 12:36:02 - Peak temperature reached: 29.80°C
+2026-05-30 12:36:36 - Peak temperature reached: 27.79°C
+2026-05-30 12:40:30 - Peak temperature reached: 25.87°C
+2026-05-30 13:02:15 - Peak temperature reached: 28.17°C
+2026-05-30 13:03:35 - Peak temperature reached: 27.02°C
+2026-05-30 13:09:00 - Peak temperature reached: 26.77°C
+2026-05-30 13:17:48 - Peak temperature reached: 28.84°C
+2026-05-30 13:18:50 - Peak temperature reached: 31.02°C
+2026-05-30 13:20:17 - Peak temperature reached: 28.98°C
+2026-05-30 13:24:51 - Peak temperature reached: 34.07°C
+2026-05-30 13:25:18 - Peak temperature reached: 32.00°C
+2026-05-30 13:26:50 - Peak temperature reached: 30.30°C
+2026-05-30 13:29:22 - Peak temperature reached: 28.31°C
+2026-05-30 13:39:12 - Peak temperature reached: 28.45°C
+2026-05-30 13:50:56 - Peak temperature reached: 29.99°C
+2026-05-30 13:57:03 - Peak temperature reached: 34.76°C
+2026-05-30 13:57:46 - Peak temperature reached: 31.98°C
+2026-05-30 13:58:48 - Peak temperature reached: 30.32°C
+2026-05-30 14:02:20 - Peak temperature reached: 29.24°C
+2026-05-30 14:08:15 - Peak temperature reached: 27.30°C
+2026-05-30 14:18:15 - Peak temperature reached: 26.51°C
+2026-05-30 14:22:28 - Peak temperature reached: 27.19°C
+2026-05-30 14:36:25 - Peak temperature reached: 28.12°C
+2026-05-30 14:43:58 - Peak temperature reached: 34.79°C
+2026-05-30 14:44:37 - Peak temperature reached: 31.94°C
+2026-05-30 14:45:35 - Peak temperature reached: 29.98°C
+2026-05-30 14:48:13 - Peak temperature reached: 28.01°C
+2026-05-30 15:18:02 - Peak temperature reached: 26.11°C
+2026-05-30 15:28:16 - Peak temperature reached: 30.89°C
+2026-05-30 15:29:43 - Peak temperature reached: 28.89°C
+2026-05-30 15:34:29 - Peak temperature reached: 26.96°C
+2026-05-30 15:39:55 - Peak temperature reached: 27.29°C
+2026-05-30 15:52:32 - Peak temperature reached: 27.83°C
+2026-05-30 15:58:43 - Peak temperature reached: 26.56°C
+2026-05-30 15:51:09 - Starting Light a Fire UI
+2026-05-30 15:51:09 - Found Arduino! port: /dev/ttyUSB0
+2026-05-30 15:51:09 - Connected to /dev/ttyUSB0
+2026-05-31 12:34:18 - Peak temperature reached: 28.18°C
+2026-05-31 12:35:47 - Peak temperature reached: 28.52°C
+2026-05-31 12:43:07 - Peak temperature reached: 28.97°C
+2026-05-31 12:44:45 - Peak temperature reached: 31.36°C
+2026-05-31 12:45:36 - Peak temperature reached: 29.38°C
+2026-05-31 12:47:56 - Peak temperature reached: 29.11°C
+2026-05-31 12:53:56 - Peak temperature reached: 28.50°C
+2026-05-31 13:04:02 - Peak temperature reached: 28.91°C
+2026-05-31 13:07:01 - Peak temperature reached: 30.97°C
+2026-05-31 13:08:20 - Peak temperature reached: 28.98°C
+2026-05-31 13:14:23 - Peak temperature reached: 27.69°C
+2026-05-31 15:09:59 - Peak temperature reached: 29.00°C
+2026-05-31 15:31:34 - Peak temperature reached: 32.81°C
+2026-05-31 15:32:10 - Peak temperature reached: 30.85°C
+2026-05-31 15:34:19 - Peak temperature reached: 28.84°C
+2026-05-31 15:54:10 - Peak temperature reached: 28.33°C
+2026-05-31 16:17:33 - Starting Light a Fire UI
+2026-05-31 16:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-05-31 16:17:33 - Connected to /dev/ttyUSB0
+2026-06-01 09:47:52 - Peak temperature reached: 30.03°C
+2026-06-01 09:48:26 - Peak temperature reached: 28.05°C
+2026-06-01 09:49:57 - Peak temperature reached: 26.08°C
+2026-06-01 10:08:48 - Peak temperature reached: 25.25°C
+2026-06-01 11:21:06 - Peak temperature reached: 24.45°C
+2026-06-01 12:10:41 - Peak temperature reached: 29.66°C
+2026-06-01 12:11:12 - Peak temperature reached: 27.63°C
+2026-06-01 12:14:34 - Peak temperature reached: 26.22°C
+2026-06-01 12:21:40 - Peak temperature reached: 27.00°C
+2026-06-01 12:31:27 - Peak temperature reached: 27.41°C
+2026-06-01 12:35:30 - Peak temperature reached: 30.87°C
+2026-06-01 12:36:00 - Peak temperature reached: 29.73°C
+2026-06-01 12:38:21 - Peak temperature reached: 30.15°C
+2026-06-01 12:39:13 - Peak temperature reached: 28.21°C
+2026-06-01 12:40:26 - Peak temperature reached: 29.41°C
+2026-06-01 12:41:55 - Peak temperature reached: 28.00°C
+2026-06-01 12:46:54 - Peak temperature reached: 27.01°C
+2026-06-01 12:50:56 - Peak temperature reached: 27.43°C
+2026-06-01 13:10:16 - Peak temperature reached: 26.34°C
+2026-06-01 14:20:46 - Peak temperature reached: 29.24°C
+2026-06-01 14:23:45 - Peak temperature reached: 27.51°C
+2026-06-01 14:37:56 - Peak temperature reached: 26.55°C
+2026-06-01 15:30:09 - Peak temperature reached: 26.67°C
+2026-06-01 15:50:20 - Peak temperature reached: 27.17°C
+2026-06-01 18:02:41 - Starting Light a Fire UI
+2026-06-01 18:02:41 - Found Arduino! port: /dev/ttyUSB0
+2026-06-01 18:02:41 - Connected to /dev/ttyUSB0
+2026-06-02 10:12:59 - Peak temperature reached: 27.49°C
+2026-06-02 10:14:49 - Peak temperature reached: 25.53°C
+2026-06-02 10:51:40 - Peak temperature reached: 28.45°C
+2026-06-02 10:53:01 - Peak temperature reached: 26.47°C
+2026-06-02 10:58:43 - Peak temperature reached: 28.04°C
+2026-06-02 11:02:06 - Peak temperature reached: 26.12°C
+2026-06-02 12:00:01 - Peak temperature reached: 25.80°C
+2026-06-02 12:20:53 - Peak temperature reached: 25.81°C
+2026-06-02 12:28:42 - Peak temperature reached: 31.29°C
+2026-06-02 12:29:02 - Peak temperature reached: 29.29°C
+2026-06-02 12:29:57 - Peak temperature reached: 27.31°C
+2026-06-02 12:42:39 - Peak temperature reached: 25.47°C
+2026-06-02 13:10:26 - Peak temperature reached: 31.61°C
+2026-06-02 13:11:01 - Peak temperature reached: 29.56°C
+2026-06-02 13:12:52 - Peak temperature reached: 27.60°C
+2026-06-02 13:18:29 - Peak temperature reached: 28.74°C
+2026-06-02 13:20:29 - Peak temperature reached: 29.12°C
+2026-06-02 13:24:58 - Peak temperature reached: 31.34°C
+2026-06-02 13:25:52 - Peak temperature reached: 29.42°C
+2026-06-02 13:28:47 - Peak temperature reached: 27.46°C
+2026-06-02 13:44:17 - Peak temperature reached: 25.97°C
+2026-06-02 13:54:31 - Peak temperature reached: 26.27°C
+2026-06-02 14:30:35 - Peak temperature reached: 27.15°C
+2026-06-02 15:12:44 - Peak temperature reached: 38.12°C
+2026-06-02 15:17:43 - Peak temperature reached: 31.98°C
+2026-06-02 15:19:42 - Peak temperature reached: 30.02°C
+2026-06-02 15:24:20 - Peak temperature reached: 28.07°C
+2026-06-02 15:50:08 - Peak temperature reached: 27.72°C
+2026-06-02 16:05:17 - Peak temperature reached: 27.48°C
+2026-06-02 17:17:14 - Peak temperature reached: 26.66°C
+2026-06-02 17:59:31 - Starting Light a Fire UI
+2026-06-02 17:59:31 - Found Arduino! port: /dev/ttyUSB0
+2026-06-02 17:59:31 - Connected to /dev/ttyUSB0
+2026-06-02 18:24:21 - Starting Light a Fire UI
+2026-06-02 18:24:21 - Found Arduino! port: /dev/ttyUSB0
+2026-06-02 18:24:22 - Connected to /dev/ttyUSB0
+2026-06-02 18:56:08 - Starting Light a Fire UI
+2026-06-02 18:56:08 - Found Arduino! port: /dev/ttyUSB0
+2026-06-02 18:56:08 - Connected to /dev/ttyUSB0
+2026-06-03 09:36:27 - Peak temperature reached: 27.50°C
+2026-06-03 09:39:37 - Peak temperature reached: 25.51°C
+2026-06-03 09:48:05 - Peak temperature reached: 25.75°C
+2026-06-03 09:58:08 - Peak temperature reached: 25.76°C
+2026-06-03 10:13:14 - Peak temperature reached: 26.54°C
+2026-06-03 10:41:33 - Peak temperature reached: 26.47°C
+2026-06-03 10:49:18 - Peak temperature reached: 25.62°C
+2026-06-03 11:38:30 - Peak temperature reached: 26.37°C
+2026-06-03 12:17:56 - Peak temperature reached: 27.70°C
+2026-06-03 12:50:48 - Peak temperature reached: 26.95°C
+2026-06-03 12:54:05 - Peak temperature reached: 28.02°C
+2026-06-03 12:58:30 - Peak temperature reached: 26.07°C
+2026-06-03 13:01:33 - Peak temperature reached: 28.15°C
+2026-06-03 13:05:08 - Peak temperature reached: 26.69°C
+2026-06-03 13:17:34 - Peak temperature reached: 27.70°C
+2026-06-03 13:22:46 - Peak temperature reached: 26.84°C
+2026-06-03 13:27:04 - Peak temperature reached: 27.43°C
+2026-06-03 13:30:33 - Peak temperature reached: 29.98°C
+2026-06-03 13:32:18 - Peak temperature reached: 28.12°C
+2026-06-03 13:39:32 - Peak temperature reached: 26.19°C
+2026-06-03 15:05:18 - Peak temperature reached: 27.53°C
+2026-06-03 19:17:33 - Starting Light a Fire UI
+2026-06-03 19:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-06-03 19:17:33 - Connected to /dev/ttyUSB0
+2026-06-04 09:49:41 - Peak temperature reached: 26.03°C
+2026-06-04 09:54:23 - Peak temperature reached: 25.60°C
+2026-06-04 10:22:49 - Peak temperature reached: 28.13°C
+2026-06-04 10:25:27 - Peak temperature reached: 26.17°C
+2026-06-04 10:32:04 - Peak temperature reached: 28.44°C
+2026-06-04 10:36:07 - Peak temperature reached: 26.48°C
+2026-06-04 10:45:36 - Peak temperature reached: 26.35°C
+2026-06-04 10:58:35 - Peak temperature reached: 28.27°C
+2026-06-04 11:03:58 - Peak temperature reached: 26.31°C
+2026-06-04 11:21:08 - Peak temperature reached: 29.17°C
+2026-06-04 11:22:20 - Peak temperature reached: 27.14°C
+2026-06-04 11:28:14 - Peak temperature reached: 26.99°C
+2026-06-04 11:48:15 - Peak temperature reached: 27.76°C
+2026-06-04 11:52:27 - Peak temperature reached: 26.44°C
+2026-06-04 12:01:43 - Peak temperature reached: 27.08°C
+2026-06-04 12:08:12 - Peak temperature reached: 26.50°C
+2026-06-04 12:17:09 - Peak temperature reached: 30.09°C
+2026-06-04 12:18:20 - Peak temperature reached: 29.47°C
+2026-06-04 12:20:16 - Peak temperature reached: 27.46°C
+2026-06-04 12:48:01 - Peak temperature reached: 27.33°C
+2026-06-04 12:55:52 - Peak temperature reached: 27.36°C
+2026-06-04 13:11:43 - Peak temperature reached: 26.71°C
+2026-06-04 13:21:36 - Peak temperature reached: 27.48°C
+2026-06-04 14:01:26 - Peak temperature reached: 27.41°C
+2026-06-04 14:05:18 - Peak temperature reached: 27.15°C
+2026-06-04 14:12:28 - Peak temperature reached: 30.83°C
+2026-06-04 14:14:06 - Peak temperature reached: 31.12°C
+2026-06-04 14:16:25 - Peak temperature reached: 29.11°C
+2026-06-04 14:17:28 - Peak temperature reached: 29.54°C
+2026-06-04 14:20:57 - Peak temperature reached: 28.26°C
+2026-06-04 14:24:10 - Peak temperature reached: 30.79°C
+2026-06-04 14:25:41 - Peak temperature reached: 28.82°C
+2026-06-04 14:41:50 - Peak temperature reached: 26.90°C
+2026-06-04 15:30:21 - Peak temperature reached: 26.56°C
+2026-06-04 16:42:58 - Peak temperature reached: 34.61°C
+2026-06-04 16:43:28 - Peak temperature reached: 31.95°C
+2026-06-04 16:44:23 - Peak temperature reached: 29.99°C
+2026-06-04 16:47:40 - Peak temperature reached: 28.08°C
+2026-06-04 17:50:39 - Starting Light a Fire UI
+2026-06-04 17:50:39 - Found Arduino! port: /dev/ttyUSB0
+2026-06-04 17:50:39 - Connected to /dev/ttyUSB0
+2026-06-06 10:44:04 - Peak temperature reached: 27.95°C
+2026-06-06 10:49:55 - Peak temperature reached: 25.99°C
+2026-06-06 11:25:57 - Peak temperature reached: 27.48°C
+2026-06-06 11:30:34 - Peak temperature reached: 27.17°C
+2026-06-06 11:33:45 - Peak temperature reached: 27.60°C
+2026-06-06 11:37:26 - Peak temperature reached: 31.02°C
+2026-06-06 11:38:12 - Peak temperature reached: 29.00°C
+2026-06-06 11:42:45 - Peak temperature reached: 33.59°C
+2026-06-06 11:43:02 - Peak temperature reached: 31.50°C
+2026-06-06 11:43:44 - Peak temperature reached: 29.50°C
+2026-06-06 11:44:52 - Peak temperature reached: 35.38°C
+2026-06-06 11:45:39 - Peak temperature reached: 31.94°C
+2026-06-06 11:46:28 - Peak temperature reached: 30.49°C
+2026-06-06 11:48:19 - Peak temperature reached: 28.53°C
+2026-06-06 12:01:14 - Peak temperature reached: 28.07°C
+2026-06-06 12:14:55 - Peak temperature reached: 26.83°C
+2026-06-06 12:23:19 - Peak temperature reached: 29.93°C
+2026-06-06 12:26:37 - Peak temperature reached: 28.04°C
+2026-06-06 12:32:04 - Peak temperature reached: 29.88°C
+2026-06-06 12:33:59 - Peak temperature reached: 27.93°C
+2026-06-06 12:39:10 - Peak temperature reached: 32.11°C
+2026-06-06 12:40:35 - Peak temperature reached: 30.75°C
+2026-06-06 12:42:04 - Peak temperature reached: 28.75°C
+2026-06-06 12:48:02 - Peak temperature reached: 29.07°C
+2026-06-06 12:59:14 - Peak temperature reached: 27.27°C
+2026-06-06 13:19:10 - Peak temperature reached: 29.08°C
+2026-06-06 13:26:48 - Peak temperature reached: 27.42°C
+2026-06-06 14:02:29 - Peak temperature reached: 27.24°C
+2026-06-06 14:15:11 - Peak temperature reached: 27.67°C
+2026-06-06 14:40:14 - Peak temperature reached: 29.62°C
+2026-06-06 14:48:19 - Peak temperature reached: 27.80°C
+2026-06-06 15:33:51 - Peak temperature reached: 30.82°C
+2026-06-06 15:36:49 - Peak temperature reached: 28.84°C
+2026-06-06 15:47:36 - Starting Light a Fire UI
+2026-06-06 15:47:36 - Found Arduino! port: /dev/ttyUSB0
+2026-06-06 15:47:36 - Connected to /dev/ttyUSB0
+2026-06-07 10:57:19 - Starting Light a Fire UI
+2026-06-07 10:57:19 - Found Arduino! port: /dev/ttyUSB0
+2026-06-07 10:57:19 - Connected to /dev/ttyUSB0
+2026-06-07 17:40:59 - Starting Light a Fire UI
+2026-06-07 17:40:59 - Found Arduino! port: /dev/ttyUSB0
+2026-06-07 17:40:59 - Connected to /dev/ttyUSB0
+2026-06-08 17:45:23 - Starting Light a Fire UI
+2026-06-08 17:45:23 - Found Arduino! port: /dev/ttyUSB0
+2026-06-08 17:45:23 - Connected to /dev/ttyUSB0
+2026-06-09 08:43:45 - Starting Light a Fire UI
+2026-06-09 08:43:45 - Found Arduino! port: /dev/ttyUSB0
+2026-06-09 08:43:45 - Connected to /dev/ttyUSB0
+2026-06-09 12:26:52 - Peak temperature reached: 28.77°C
+2026-06-09 12:33:24 - Peak temperature reached: 31.31°C
+2026-06-09 12:39:28 - Peak temperature reached: 29.40°C
+2026-06-09 12:48:10 - Peak temperature reached: 29.53°C
+2026-06-09 13:04:51 - Peak temperature reached: 31.92°C
+2026-06-09 13:09:28 - Peak temperature reached: 29.93°C
+2026-06-09 13:30:11 - Peak temperature reached: 31.14°C
+2026-06-09 13:43:12 - Peak temperature reached: 32.90°C
+2026-06-09 13:44:24 - Peak temperature reached: 30.92°C
+2026-06-09 14:32:07 - Peak temperature reached: 31.97°C
+2026-06-09 14:35:16 - Peak temperature reached: 35.08°C
+2026-06-09 14:36:50 - Peak temperature reached: 32.01°C
+2026-06-09 14:44:44 - Peak temperature reached: 36.33°C
+2026-06-09 14:47:40 - Peak temperature reached: 32.04°C
+2026-06-09 15:00:27 - Peak temperature reached: 30.09°C
+2026-06-09 16:24:06 - Error reading from serial, Arduino probably disconnected
+2026-06-09 16:24:06 - Arduino disconnected. Trying to reconnect to Arduino...
+2026-06-09 16:24:06 - Found Arduino! port: /dev/ttyUSB1
+2026-06-09 16:24:06 - Connected to /dev/ttyUSB1
+2026-06-09 18:17:33 - Starting Light a Fire UI
+2026-06-09 18:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-06-09 18:17:33 - Connected to /dev/ttyUSB0
+2026-06-10 10:43:26 - Peak temperature reached: 29.29°C
+2026-06-10 11:03:05 - Peak temperature reached: 29.71°C
+2026-06-10 12:29:49 - Peak temperature reached: 29.49°C
+2026-06-10 12:31:42 - Peak temperature reached: 30.62°C
+2026-06-10 12:49:16 - Peak temperature reached: 30.26°C
+2026-06-10 13:09:57 - Peak temperature reached: 29.36°C
+2026-06-10 13:23:04 - Peak temperature reached: 29.81°C
+2026-06-10 13:43:39 - Peak temperature reached: 29.06°C
+2026-06-10 16:00:03 - Peak temperature reached: 30.61°C
+2026-06-10 16:04:27 - Peak temperature reached: 31.55°C
+2026-06-10 16:06:20 - Peak temperature reached: 29.59°C
+2026-06-10 16:10:56 - Peak temperature reached: 31.03°C
+2026-06-10 16:14:06 - Peak temperature reached: 29.09°C
+2026-06-10 16:38:40 - Peak temperature reached: 28.55°C
+2026-06-10 18:17:33 - Starting Light a Fire UI
+2026-06-10 18:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-06-10 18:17:33 - Connected to /dev/ttyUSB0
+2026-06-11 09:25:04 - Peak temperature reached: 26.90°C
+2026-06-11 09:32:59 - Peak temperature reached: 27.48°C
+2026-06-11 10:44:46 - Peak temperature reached: 26.65°C
+2026-06-11 11:03:39 - Peak temperature reached: 27.15°C
+2026-06-11 11:06:33 - Peak temperature reached: 30.64°C
+2026-06-11 11:10:57 - Peak temperature reached: 28.68°C
+2026-06-11 11:31:40 - Peak temperature reached: 27.16°C
+2026-06-11 11:52:22 - Peak temperature reached: 29.96°C
+2026-06-11 11:55:04 - Peak temperature reached: 28.00°C
+2026-06-11 12:00:59 - Peak temperature reached: 33.65°C
+2026-06-11 12:01:30 - Peak temperature reached: 31.64°C
+2026-06-11 12:02:52 - Peak temperature reached: 29.67°C
+2026-06-11 12:11:01 - Peak temperature reached: 29.80°C
+2026-06-11 12:19:46 - Peak temperature reached: 29.97°C
+2026-06-11 12:23:13 - Peak temperature reached: 30.39°C
+2026-06-11 12:26:31 - Peak temperature reached: 28.43°C
+2026-06-11 12:49:21 - Peak temperature reached: 28.50°C
+2026-06-11 13:05:01 - Peak temperature reached: 29.30°C
+2026-06-11 13:33:48 - Peak temperature reached: 28.04°C
+2026-06-11 14:57:15 - Peak temperature reached: 28.25°C
+2026-06-11 15:14:20 - Peak temperature reached: 28.19°C
+2026-06-11 16:44:19 - Peak temperature reached: 28.21°C
+2026-06-11 17:44:37 - Peak temperature reached: 28.18°C
+2026-06-11 18:23:29 - Starting Light a Fire UI
+2026-06-11 18:23:29 - Found Arduino! port: /dev/ttyUSB0
+2026-06-11 18:23:29 - Connected to /dev/ttyUSB0
+2026-06-13 11:42:58 - Peak temperature reached: 35.68°C
+2026-06-13 11:47:23 - Peak temperature reached: 42.36°C
+2026-06-13 11:53:54 - Peak temperature reached: 32.02°C
+2026-06-13 11:55:06 - Peak temperature reached: 34.47°C
+2026-06-13 11:56:05 - Peak temperature reached: 31.99°C
+2026-06-13 12:01:04 - Peak temperature reached: 30.27°C
+2026-06-13 12:12:48 - Peak temperature reached: 29.94°C
+2026-06-13 12:31:27 - Peak temperature reached: 28.10°C
+2026-06-13 12:43:12 - Peak temperature reached: 29.54°C
+2026-06-13 12:56:54 - Peak temperature reached: 28.30°C
+2026-06-13 13:30:07 - Peak temperature reached: 27.82°C
+2026-06-13 14:03:10 - Peak temperature reached: 30.99°C
+2026-06-13 14:04:18 - Peak temperature reached: 28.97°C
+2026-06-13 14:47:00 - Peak temperature reached: 29.04°C
+2026-06-13 15:29:57 - Peak temperature reached: 29.56°C
+2026-06-13 15:54:06 - Peak temperature reached: 27.65°C
+2026-06-13 15:22:40 - Starting Light a Fire UI
+2026-06-13 15:22:40 - Found Arduino! port: /dev/ttyUSB0
+2026-06-13 15:22:40 - Connected to /dev/ttyUSB0
+2026-06-14 10:47:52 - Peak temperature reached: 27.98°C
+2026-06-14 10:51:59 - Peak temperature reached: 29.23°C
+2026-06-14 11:14:40 - Peak temperature reached: 30.44°C
+2026-06-14 11:16:46 - Peak temperature reached: 28.46°C
+2026-06-14 12:11:17 - Peak temperature reached: 30.72°C
+2026-06-14 12:15:36 - Peak temperature reached: 30.21°C
+2026-06-14 12:19:28 - Peak temperature reached: 29.10°C
+2026-06-14 12:44:19 - Peak temperature reached: 28.68°C
+2026-06-14 12:53:00 - Peak temperature reached: 30.44°C
+2026-06-14 13:35:56 - Peak temperature reached: 28.48°C
+2026-06-14 14:25:37 - Peak temperature reached: 31.65°C
+2026-06-14 14:29:21 - Peak temperature reached: 32.86°C
+2026-06-14 14:30:31 - Peak temperature reached: 31.96°C
+2026-06-14 14:34:06 - Peak temperature reached: 30.01°C
+2026-06-14 14:43:23 - Peak temperature reached: 29.64°C
+2026-06-14 14:52:01 - Peak temperature reached: 30.25°C
+2026-06-14 15:20:40 - Peak temperature reached: 32.88°C
+2026-06-14 15:22:06 - Peak temperature reached: 30.97°C
+2026-06-14 16:26:55 - Peak temperature reached: 29.07°C
+2026-06-14 16:17:33 - Starting Light a Fire UI
+2026-06-14 16:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-06-14 16:17:33 - Connected to /dev/ttyUSB0
+2026-06-15 09:53:11 - Peak temperature reached: 28.07°C
+2026-06-15 10:10:41 - Peak temperature reached: 28.25°C
+2026-06-15 10:22:41 - Peak temperature reached: 28.05°C
+2026-06-15 10:27:35 - Peak temperature reached: 29.17°C
+2026-06-15 10:33:58 - Peak temperature reached: 27.92°C
+2026-06-15 10:47:30 - Peak temperature reached: 27.96°C
+2026-06-15 10:52:14 - Peak temperature reached: 29.71°C
+2026-06-15 10:56:35 - Peak temperature reached: 28.13°C
+2026-06-15 11:02:36 - Peak temperature reached: 31.31°C
+2026-06-15 11:03:52 - Peak temperature reached: 29.36°C
+2026-06-15 11:15:00 - Peak temperature reached: 27.43°C
+2026-06-15 12:01:02 - Peak temperature reached: 28.64°C
+2026-06-15 12:08:53 - Peak temperature reached: 28.71°C
+2026-06-15 12:17:55 - Peak temperature reached: 28.44°C
+2026-06-15 12:29:39 - Peak temperature reached: 30.62°C
+2026-06-15 12:35:01 - Peak temperature reached: 28.72°C
+2026-06-15 12:53:08 - Peak temperature reached: 27.53°C
+2026-06-15 13:02:26 - Peak temperature reached: 31.62°C
+2026-06-15 13:03:35 - Peak temperature reached: 29.62°C
+2026-06-15 13:08:10 - Peak temperature reached: 31.22°C
+2026-06-15 13:13:12 - Peak temperature reached: 30.47°C
+2026-06-15 13:24:46 - Peak temperature reached: 30.30°C
+2026-06-15 13:31:36 - Peak temperature reached: 28.35°C
+2026-06-15 15:37:55 - Peak temperature reached: 28.43°C
+2026-06-15 16:00:56 - Peak temperature reached: 27.51°C
+2026-06-15 16:37:21 - Peak temperature reached: 30.10°C
+2026-06-15 16:42:45 - Peak temperature reached: 28.14°C
+2026-06-15 17:42:50 - Starting Light a Fire UI
+2026-06-15 17:42:50 - Found Arduino! port: /dev/ttyUSB0
+2026-06-15 17:42:50 - Connected to /dev/ttyUSB0
+2026-06-16 10:44:34 - Starting Light a Fire UI
+2026-06-16 10:44:34 - Found Arduino! port: /dev/ttyUSB0
+2026-06-16 10:44:34 - Connected to /dev/ttyUSB0
+2026-06-16 11:06:00 - Peak temperature reached: 27.99°C
+2026-06-16 11:14:53 - Peak temperature reached: 26.73°C
+2026-06-16 11:25:03 - Peak temperature reached: 26.71°C
+2026-06-16 12:40:15 - Peak temperature reached: 30.70°C
+2026-06-16 12:41:05 - Peak temperature reached: 29.90°C
+2026-06-16 12:42:51 - Peak temperature reached: 27.93°C
+2026-06-16 12:50:37 - Peak temperature reached: 27.22°C
+2026-06-16 12:57:09 - Peak temperature reached: 26.73°C
+2026-06-16 13:33:21 - Peak temperature reached: 31.18°C
+2026-06-16 13:35:49 - Peak temperature reached: 29.15°C
+2026-06-16 13:38:54 - Peak temperature reached: 27.24°C
+2026-06-16 16:50:36 - Peak temperature reached: 28.35°C
+2026-06-16 17:40:51 - Peak temperature reached: 29.07°C
+2026-06-16 17:48:41 - Peak temperature reached: 28.10°C
+2026-06-16 17:45:25 - Starting Light a Fire UI
+2026-06-16 17:45:25 - Found Arduino! port: /dev/ttyUSB0
+2026-06-16 17:45:25 - Connected to /dev/ttyUSB0
+2026-06-17 10:04:22 - Peak temperature reached: 30.72°C
+2026-06-17 10:05:53 - Peak temperature reached: 28.75°C
+2026-06-17 10:14:12 - Peak temperature reached: 28.23°C
+2026-06-17 10:27:51 - Peak temperature reached: 30.71°C
+2026-06-17 10:28:32 - Peak temperature reached: 28.75°C
+2026-06-17 10:33:34 - Peak temperature reached: 26.79°C
+2026-06-17 10:50:24 - Peak temperature reached: 29.06°C
+2026-06-17 10:59:39 - Peak temperature reached: 27.05°C
+2026-06-17 11:24:24 - Peak temperature reached: 27.38°C
+2026-06-17 11:43:54 - Peak temperature reached: 30.87°C
+2026-06-17 11:45:57 - Peak temperature reached: 29.75°C
+2026-06-17 11:48:43 - Peak temperature reached: 28.99°C
+2026-06-17 11:50:25 - Peak temperature reached: 31.48°C
+2026-06-17 11:52:08 - Peak temperature reached: 29.47°C
+2026-06-17 11:54:25 - Peak temperature reached: 30.49°C
+2026-06-17 11:55:16 - Peak temperature reached: 33.97°C
+2026-06-17 11:55:38 - Peak temperature reached: 32.01°C
+2026-06-17 11:56:30 - Peak temperature reached: 30.01°C
+2026-06-17 11:59:41 - Peak temperature reached: 28.05°C
+2026-06-17 12:51:22 - Peak temperature reached: 26.90°C
+2026-06-17 13:03:31 - Peak temperature reached: 31.08°C
+2026-06-17 13:05:06 - Peak temperature reached: 29.09°C
+2026-06-17 13:12:08 - Peak temperature reached: 30.04°C
+2026-06-17 13:14:54 - Peak temperature reached: 28.66°C
+2026-06-17 14:32:02 - Peak temperature reached: 30.21°C
+2026-06-17 14:38:21 - Peak temperature reached: 28.25°C
+2026-06-17 15:14:39 - Peak temperature reached: 28.25°C
+2026-06-17 15:18:45 - Peak temperature reached: 27.92°C
+2026-06-17 15:50:58 - Peak temperature reached: 28.65°C
+2026-06-17 15:55:59 - Peak temperature reached: 28.93°C
+2026-06-17 17:29:52 - Peak temperature reached: 27.18°C
+2026-06-17 17:42:28 - Starting Light a Fire UI
+2026-06-17 17:42:28 - Found Arduino! port: /dev/ttyUSB0
+2026-06-17 17:42:28 - Connected to /dev/ttyUSB0
+2026-06-18 10:41:50 - Peak temperature reached: 26.84°C
+2026-06-18 11:02:59 - Peak temperature reached: 26.88°C
+2026-06-18 11:09:48 - Peak temperature reached: 27.18°C
+2026-06-18 11:39:45 - Peak temperature reached: 28.74°C
+2026-06-18 11:40:46 - Peak temperature reached: 31.33°C
+2026-06-18 11:41:19 - Peak temperature reached: 29.27°C
+2026-06-18 11:43:37 - Peak temperature reached: 27.34°C
+2026-06-18 12:27:52 - Peak temperature reached: 30.41°C
+2026-06-18 12:29:51 - Peak temperature reached: 28.40°C
+2026-06-18 12:42:38 - Peak temperature reached: 27.54°C
+2026-06-18 12:48:57 - Peak temperature reached: 28.03°C
+2026-06-18 13:00:51 - Peak temperature reached: 27.13°C
+2026-06-18 13:09:22 - Peak temperature reached: 30.85°C
+2026-06-18 13:10:53 - Peak temperature reached: 28.96°C
+2026-06-18 13:26:15 - Peak temperature reached: 27.29°C
+2026-06-18 14:32:01 - Peak temperature reached: 27.91°C
+2026-06-18 15:01:50 - Peak temperature reached: 28.96°C
+2026-06-18 15:18:36 - Peak temperature reached: 27.55°C
+2026-06-18 15:44:19 - Peak temperature reached: 30.15°C
+2026-06-18 15:47:34 - Peak temperature reached: 29.42°C
+2026-06-18 15:57:45 - Peak temperature reached: 27.48°C
+2026-06-18 16:23:05 - Peak temperature reached: 30.98°C
+2026-06-18 16:24:26 - Peak temperature reached: 29.06°C
+2026-06-18 16:36:56 - Peak temperature reached: 27.69°C
+2026-06-18 17:10:19 - Peak temperature reached: 26.98°C
+2026-06-18 17:49:28 - Peak temperature reached: 35.65°C
+2026-06-18 17:50:43 - Peak temperature reached: 32.10°C
+2026-06-18 17:52:11 - Peak temperature reached: 30.11°C
+2026-06-18 18:01:45 - Peak temperature reached: 28.18°C
+2026-06-18 17:35:38 - Starting Light a Fire UI
+2026-06-18 17:35:38 - Found Arduino! port: /dev/ttyUSB0
+2026-06-18 17:35:38 - Connected to /dev/ttyUSB0
+2026-06-19 09:33:40 - Peak temperature reached: 26.91°C
+2026-06-19 09:51:17 - Peak temperature reached: 29.47°C
+2026-06-19 09:54:19 - Peak temperature reached: 28.52°C
+2026-06-19 09:56:31 - Peak temperature reached: 30.82°C
+2026-06-19 10:00:54 - Peak temperature reached: 39.79°C
+2026-06-19 10:07:40 - Peak temperature reached: 32.02°C
+2026-06-19 10:10:59 - Peak temperature reached: 30.05°C
+2026-06-19 10:24:19 - Peak temperature reached: 28.18°C
+2026-06-19 10:43:45 - Peak temperature reached: 28.66°C
+2026-06-19 11:17:33 - Starting Light a Fire UI
+2026-06-19 11:17:33 - Found Arduino! port: /dev/ttyUSB0
+2026-06-19 11:17:33 - Connected to /dev/ttyUSB0
+2026-06-20 10:55:39 - Peak temperature reached: 26.36°C
+2026-06-20 11:22:10 - Peak temperature reached: 26.78°C
+2026-06-20 11:27:16 - Peak temperature reached: 29.29°C
+2026-06-20 11:28:31 - Peak temperature reached: 28.07°C
+2026-06-20 11:46:13 - Peak temperature reached: 26.19°C
+2026-06-20 11:47:36 - Peak temperature reached: 27.02°C
+2026-06-20 11:58:24 - Peak temperature reached: 30.36°C
+2026-06-20 11:59:41 - Peak temperature reached: 33.37°C
+2026-06-20 11:59:59 - Peak temperature reached: 31.36°C
+2026-06-20 12:00:59 - Peak temperature reached: 29.44°C
+2026-06-20 12:07:11 - Peak temperature reached: 27.52°C
+2026-06-20 12:11:36 - Peak temperature reached: 27.65°C
+2026-06-20 12:31:45 - Peak temperature reached: 30.83°C
+2026-06-20 12:32:58 - Peak temperature reached: 28.86°C
+2026-06-20 12:38:16 - Peak temperature reached: 42.10°C
+2026-06-20 12:42:37 - Peak temperature reached: 39.44°C
+2026-06-20 12:51:19 - Peak temperature reached: 31.99°C
+2026-06-20 12:54:03 - Peak temperature reached: 30.03°C
+2026-06-20 12:58:42 - Peak temperature reached: 33.48°C
+2026-06-20 12:59:03 - Peak temperature reached: 31.44°C
+2026-06-20 13:00:08 - Peak temperature reached: 29.44°C
+2026-06-20 13:14:06 - Peak temperature reached: 32.86°C
+2026-06-20 13:14:28 - Peak temperature reached: 30.84°C
+2026-06-20 13:16:33 - Peak temperature reached: 28.87°C
+2026-06-20 13:29:21 - Peak temperature reached: 30.41°C
+2026-06-20 13:33:05 - Peak temperature reached: 28.86°C
+2026-06-20 13:34:27 - Peak temperature reached: 29.82°C
+2026-06-20 13:35:53 - Peak temperature reached: 39.33°C
+2026-06-20 13:37:08 - Peak temperature reached: 31.96°C
+2026-06-20 13:38:49 - Peak temperature reached: 29.97°C
+2026-06-20 13:47:18 - Peak temperature reached: 28.03°C
+2026-06-20 13:54:06 - Peak temperature reached: 32.36°C
+2026-06-20 13:54:55 - Peak temperature reached: 30.36°C
+2026-06-20 13:58:27 - Peak temperature reached: 34.38°C
+2026-06-20 13:58:51 - Peak temperature reached: 31.98°C
+2026-06-20 13:59:51 - Peak temperature reached: 30.06°C
+2026-06-20 14:04:10 - Peak temperature reached: 31.08°C
+2026-06-20 14:18:13 - Peak temperature reached: 29.09°C
+2026-06-20 14:46:19 - Peak temperature reached: 30.24°C
+2026-06-20 14:48:32 - Peak temperature reached: 28.86°C
+2026-06-20 15:54:41 - Peak temperature reached: 30.56°C
+2026-06-20 15:56:06 - Peak temperature reached: 28.58°C
+2026-06-20 15:17:34 - Starting Light a Fire UI
+2026-06-20 15:17:34 - Found Arduino! port: /dev/ttyUSB0
+2026-06-20 15:17:34 - Connected to /dev/ttyUSB0
+2026-06-21 12:30:43 - Peak temperature reached: 27.62°C
+2026-06-21 12:40:48 - Peak temperature reached: 27.44°C
+2026-06-21 13:44:04 - Error reading from serial, Arduino probably disconnected
+2026-06-21 13:44:04 - Arduino disconnected. Trying to reconnect to Arduino...
+2026-06-21 13:44:04 - Error: Arduino not found
+2026-06-21 13:44:09 - Found Arduino! port: /dev/ttyUSB0
+2026-06-21 13:44:09 - Connected to /dev/ttyUSB0
+2026-06-21 18:28:22 - Starting Light a Fire UI
+2026-06-21 18:28:22 - Found Arduino! port: /dev/ttyUSB0
+2026-06-21 18:28:22 - Connected to /dev/ttyUSB0
+2026-06-22 13:46:13 - Peak temperature reached: 29.35°C
+2026-06-22 13:49:02 - Peak temperature reached: 29.07°C
+2026-06-22 13:56:53 - Peak temperature reached: 27.61°C
+2026-06-22 14:00:45 - Peak temperature reached: 29.68°C
+2026-06-22 14:02:45 - Peak temperature reached: 28.18°C
+2026-06-22 14:09:21 - Peak temperature reached: 28.49°C
+2026-06-22 14:11:52 - Peak temperature reached: 29.08°C
+2026-06-22 14:17:41 - Peak temperature reached: 28.52°C
+2026-06-22 14:24:17 - Peak temperature reached: 30.77°C
+2026-06-22 14:27:02 - Peak temperature reached: 30.08°C
+2026-06-22 14:30:22 - Peak temperature reached: 28.18°C
+2026-06-22 14:45:38 - Peak temperature reached: 28.20°C
+2026-06-22 14:49:35 - Peak temperature reached: 27.84°C
+2026-06-22 14:55:04 - Peak temperature reached: 28.76°C
+2026-06-22 15:05:57 - Peak temperature reached: 28.43°C
+2026-06-22 15:36:54 - Peak temperature reached: 28.18°C
+2026-06-22 16:13:34 - Peak temperature reached: 29.30°C
+2026-06-22 16:25:46 - Peak temperature reached: 27.43°C
+2026-06-22 16:38:40 - Peak temperature reached: 29.47°C
+2026-06-22 16:43:25 - Peak temperature reached: 30.29°C
+2026-06-22 16:45:27 - Peak temperature reached: 28.34°C
+2026-06-22 16:52:32 - Peak temperature reached: 29.47°C
+2026-06-22 16:54:33 - Peak temperature reached: 28.88°C
+2026-06-22 16:55:38 - Peak temperature reached: 29.44°C
+2026-06-22 17:11:07 - Peak temperature reached: 27.51°C
+2026-06-22 17:47:00 - Starting Light a Fire UI
+2026-06-22 17:47:00 - Found Arduino! port: /dev/ttyUSB0
+2026-06-22 17:47:00 - Connected to /dev/ttyUSB0
+2026-06-23 09:33:30 - Peak temperature reached: 25.15°C
+2026-06-23 09:44:59 - Peak temperature reached: 25.80°C
+2026-06-23 10:18:35 - Peak temperature reached: 28.07°C
+2026-06-23 10:22:40 - Peak temperature reached: 26.07°C
+2026-06-23 10:38:38 - Peak temperature reached: 28.20°C
+2026-06-23 10:40:42 - Peak temperature reached: 26.29°C
+2026-06-23 10:47:30 - Peak temperature reached: 26.12°C
+2026-06-23 11:07:11 - Peak temperature reached: 25.76°C
+2026-06-23 11:40:07 - Peak temperature reached: 27.26°C
+2026-06-23 11:54:01 - Peak temperature reached: 26.29°C
+2026-06-23 12:05:40 - Peak temperature reached: 26.53°C
+2026-06-23 12:09:01 - Peak temperature reached: 27.98°C
+2026-06-23 12:15:40 - Peak temperature reached: 30.97°C
+2026-06-23 12:16:14 - Peak temperature reached: 28.94°C
+2026-06-23 12:22:01 - Peak temperature reached: 26.99°C
+2026-06-23 12:37:41 - Peak temperature reached: 27.40°C
+2026-06-23 12:49:48 - Peak temperature reached: 27.57°C
+2026-06-23 13:09:01 - Peak temperature reached: 27.29°C
+2026-06-23 13:32:19 - Peak temperature reached: 28.78°C
+2026-06-23 13:39:01 - Peak temperature reached: 26.92°C
+2026-06-23 13:44:11 - Peak temperature reached: 28.16°C
+2026-06-23 13:49:55 - Peak temperature reached: 26.84°C
+2026-06-23 14:20:41 - Peak temperature reached: 29.15°C
+2026-06-23 14:22:41 - Peak temperature reached: 27.72°C
+2026-06-23 14:32:54 - Peak temperature reached: 37.38°C
+2026-06-23 14:34:14 - Peak temperature reached: 32.00°C
+2026-06-23 14:35:58 - Peak temperature reached: 30.03°C
+2026-06-23 14:38:27 - Peak temperature reached: 30.48°C
+2026-06-23 14:42:39 - Peak temperature reached: 28.49°C
+2026-06-23 15:00:13 - Peak temperature reached: 31.12°C
+2026-06-23 15:01:55 - Peak temperature reached: 29.13°C
+2026-06-23 15:05:48 - Peak temperature reached: 30.13°C
+2026-06-23 15:10:29 - Peak temperature reached: 28.52°C
+2026-06-23 15:15:31 - Peak temperature reached: 28.89°C
+2026-06-23 15:27:28 - Peak temperature reached: 27.84°C
+2026-06-23 15:39:06 - Peak temperature reached: 27.70°C
+2026-06-23 15:58:01 - Peak temperature reached: 27.43°C
+2026-06-23 16:07:42 - Peak temperature reached: 34.47°C
+2026-06-23 16:08:23 - Peak temperature reached: 31.97°C
+2026-06-23 16:09:51 - Peak temperature reached: 29.98°C
+2026-06-23 16:16:13 - Peak temperature reached: 28.06°C
+2026-06-23 17:59:22 - Starting Light a Fire UI
+2026-06-23 17:59:22 - Found Arduino! port: /dev/ttyUSB0
+2026-06-23 17:59:22 - Connected to /dev/ttyUSB0
+2026-06-24 09:45:04 - Peak temperature reached: 27.30°C
+2026-06-24 09:48:41 - Peak temperature reached: 27.13°C
+2026-06-24 10:11:29 - Peak temperature reached: 27.85°C
+2026-06-24 10:13:18 - Peak temperature reached: 28.16°C
+2026-06-24 09:17:41 - Starting Light a Fire UI
+2026-06-24 09:17:41 - Found Arduino! port: /dev/ttyUSB0
+2026-06-24 09:17:41 - Connected to /dev/ttyUSB0
+2026-06-24 10:19:04 - Peak temperature reached: 28.63°C
+2026-06-24 10:21:42 - Peak temperature reached: 28.16°C
+2026-06-24 10:31:08 - Peak temperature reached: 26.76°C
+2026-06-24 10:39:07 - Peak temperature reached: 27.40°C
+2026-06-24 11:35:41 - Peak temperature reached: 27.67°C
+2026-06-24 12:29:21 - Peak temperature reached: 27.36°C
+2026-06-24 13:00:11 - Peak temperature reached: 28.22°C
+2026-06-24 13:02:13 - Peak temperature reached: 28.39°C
+2026-06-24 13:16:43 - Peak temperature reached: 29.84°C
+2026-06-24 13:20:00 - Peak temperature reached: 27.82°C
+2026-06-24 13:43:03 - Peak temperature reached: 31.04°C
+2026-06-24 13:44:11 - Peak temperature reached: 29.07°C
+2026-06-24 13:47:58 - Peak temperature reached: 28.71°C
+2026-06-24 14:05:33 - Peak temperature reached: 27.72°C
+2026-06-24 14:09:07 - Peak temperature reached: 28.09°C
+2026-06-24 14:12:19 - Error reading from serial, Arduino probably disconnected
+2026-06-24 14:12:25 - Arduino disconnected. Trying to reconnect to Arduino...
+2026-06-24 14:12:25 - Found Arduino! port: /dev/ttyUSB1
+2026-06-24 14:12:25 - Error: Could not open serial port /dev/ttyUSB1 - [Errno 13] could not open port /dev/ttyUSB1: [Errno 13] Permission denied: '/dev/ttyUSB1'
+2026-06-24 14:12:26 - Found Arduino! port: /dev/ttyUSB1
+2026-06-24 14:12:26 - Connected to /dev/ttyUSB1
+2026-06-24 14:25:18 - Peak temperature reached: 27.22°C
+2026-06-24 14:51:19 - Peak temperature reached: 27.55°C
+2026-06-24 14:56:11 - Peak temperature reached: 27.52°C
+2026-06-24 16:07:15 - Peak temperature reached: 28.55°C
+2026-06-24 17:14:53 - Peak temperature reached: 26.78°C
+2026-06-24 17:59:05 - Starting Light a Fire UI
+2026-06-24 17:59:05 - Found Arduino! port: /dev/ttyUSB0
+2026-06-24 17:59:05 - Connected to /dev/ttyUSB0
+2026-06-25 10:00:31 - Peak temperature reached: 26.66°C
+2026-06-25 10:12:20 - Peak temperature reached: 29.75°C
+2026-06-25 10:21:24 - Peak temperature reached: 27.76°C
+2026-06-25 10:29:39 - Peak temperature reached: 27.47°C
+2026-06-25 11:25:31 - Peak temperature reached: 31.50°C
+2026-06-25 11:26:13 - Peak temperature reached: 29.53°C
+2026-06-25 11:28:57 - Peak temperature reached: 27.57°C
+2026-06-25 11:37:15 - Peak temperature reached: 26.76°C
+2026-06-25 12:18:12 - Peak temperature reached: 32.65°C
+2026-06-25 12:18:47 - Peak temperature reached: 30.64°C
+2026-06-25 12:20:33 - Peak temperature reached: 28.66°C
+2026-06-25 12:25:58 - Peak temperature reached: 27.64°C
+2026-06-25 12:34:17 - Peak temperature reached: 27.06°C
+2026-06-25 12:41:36 - Peak temperature reached: 27.93°C
+2026-06-25 12:47:47 - Peak temperature reached: 28.83°C
+2026-06-25 12:55:42 - Peak temperature reached: 27.45°C
+2026-06-25 13:05:21 - Peak temperature reached: 30.16°C
+2026-06-25 13:11:11 - Peak temperature reached: 28.88°C
+2026-06-25 13:38:25 - Peak temperature reached: 27.36°C
+2026-06-25 13:56:51 - Peak temperature reached: 33.14°C
+2026-06-25 13:57:08 - Peak temperature reached: 31.06°C
+2026-06-25 13:58:40 - Peak temperature reached: 29.16°C
+2026-06-25 14:16:15 - Peak temperature reached: 29.94°C
+2026-06-25 14:17:48 - Peak temperature reached: 29.50°C
+2026-06-25 14:22:31 - Peak temperature reached: 34.68°C
+2026-06-25 14:23:08 - Peak temperature reached: 31.96°C
+2026-06-25 14:25:12 - Peak temperature reached: 29.97°C
+2026-06-25 14:25:54 - Peak temperature reached: 30.86°C
+2026-06-25 14:28:14 - Peak temperature reached: 28.89°C
+2026-06-25 15:06:21 - Peak temperature reached: 28.14°C
+2026-06-25 15:11:18 - Peak temperature reached: 32.87°C
+2026-06-25 15:12:31 - Peak temperature reached: 30.91°C
+2026-06-25 15:15:52 - Peak temperature reached: 32.23°C
+2026-06-25 15:17:48 - Peak temperature reached: 30.72°C
+2026-06-25 15:20:50 - Peak temperature reached: 30.62°C
+2026-06-25 15:23:00 - Peak temperature reached: 30.89°C
+2026-06-25 15:26:11 - Peak temperature reached: 28.93°C
+2026-06-25 15:54:26 - Peak temperature reached: 28.34°C
+2026-06-25 16:00:52 - Peak temperature reached: 28.05°C
+2026-06-25 17:31:21 - Peak temperature reached: 28.38°C
+2026-06-25 17:29:49 - Starting Light a Fire UI
+2026-06-25 17:29:49 - Found Arduino! port: /dev/ttyUSB0
+2026-06-25 17:29:49 - Connected to /dev/ttyUSB0
+2026-06-27 10:42:34 - Peak temperature reached: 30.77°C
+2026-06-27 10:43:37 - Peak temperature reached: 28.76°C
+2026-06-27 10:51:56 - Peak temperature reached: 27.84°C
+2026-06-27 11:32:17 - Peak temperature reached: 28.20°C
+2026-06-27 11:35:41 - Peak temperature reached: 27.81°C
+2026-06-27 12:01:48 - Peak temperature reached: 27.32°C
+2026-06-27 12:49:57 - Peak temperature reached: 33.05°C
+2026-06-27 12:50:19 - Peak temperature reached: 31.02°C
+2026-06-27 12:51:18 - Peak temperature reached: 29.03°C
+2026-06-27 12:58:37 - Peak temperature reached: 28.43°C
+2026-06-27 13:14:38 - Peak temperature reached: 28.39°C
+2026-06-27 13:25:57 - Peak temperature reached: 27.86°C
+2026-06-27 13:43:11 - Peak temperature reached: 28.38°C
+2026-06-27 13:49:13 - Peak temperature reached: 29.36°C
+2026-06-27 14:02:15 - Peak temperature reached: 27.45°C
+2026-06-27 14:32:15 - Peak temperature reached: 28.60°C
+2026-06-27 14:36:32 - Peak temperature reached: 29.76°C
+2026-06-27 14:38:43 - Peak temperature reached: 28.71°C
+2026-06-27 14:46:41 - Peak temperature reached: 30.22°C
+2026-06-27 14:50:55 - Peak temperature reached: 28.27°C
+2026-06-27 15:17:59 - Peak temperature reached: 27.89°C
+2026-06-27 15:35:09 - Starting Light a Fire UI
+2026-06-27 15:35:09 - Found Arduino! port: /dev/ttyUSB0
+2026-06-27 15:35:09 - Connected to /dev/ttyUSB0
+2026-06-28 13:25:37 - Peak temperature reached: 28.47°C
+2026-06-28 13:35:16 - Peak temperature reached: 29.62°C
+2026-06-28 18:39:32 - Starting Light a Fire UI
+2026-06-28 18:39:32 - Found Arduino! port: /dev/ttyUSB0
+2026-06-28 18:39:32 - Connected to /dev/ttyUSB0
+2026-06-29 09:33:54 - Peak temperature reached: 28.91°C
+2026-06-29 09:46:45 - Peak temperature reached: 28.17°C
+2026-06-29 09:51:36 - Peak temperature reached: 28.04°C
+2026-06-29 10:08:19 - Peak temperature reached: 30.33°C
+2026-06-29 10:09:53 - Peak temperature reached: 28.37°C
+2026-06-29 10:21:55 - Peak temperature reached: 27.07°C
+2026-06-29 11:01:57 - Peak temperature reached: 28.69°C
+2026-06-29 11:08:01 - Peak temperature reached: 27.36°C
+2026-06-29 11:29:28 - Peak temperature reached: 28.05°C
+2026-06-29 12:04:08 - Peak temperature reached: 30.45°C
+2026-06-29 12:06:23 - Peak temperature reached: 29.86°C
+2026-06-29 12:06:54 - Peak temperature reached: 31.54°C
+2026-06-29 12:08:30 - Peak temperature reached: 29.74°C
+2026-06-29 12:16:17 - Peak temperature reached: 28.86°C
+2026-06-29 12:44:49 - Peak temperature reached: 27.88°C
+2026-06-29 12:58:26 - Peak temperature reached: 29.00°C
+2026-06-29 13:05:44 - Peak temperature reached: 28.51°C
+2026-06-29 13:11:44 - Peak temperature reached: 28.87°C
+2026-06-29 13:15:22 - Peak temperature reached: 30.03°C
+2026-06-29 13:24:36 - Peak temperature reached: 28.07°C
+2026-06-29 14:50:16 - Peak temperature reached: 31.89°C
+2026-06-29 14:51:33 - Peak temperature reached: 29.86°C
+2026-06-29 15:02:27 - Peak temperature reached: 27.94°C
+2026-06-29 15:06:55 - Peak temperature reached: 28.83°C
+2026-06-29 15:32:33 - Peak temperature reached: 29.88°C
+2026-06-29 15:35:50 - Peak temperature reached: 27.92°C
+2026-06-29 17:40:11 - Starting Light a Fire UI
+2026-06-29 17:40:11 - Found Arduino! port: /dev/ttyUSB0
+2026-06-29 17:40:11 - Connected to /dev/ttyUSB0
+2026-06-30 11:22:04 - Starting Light a Fire UI
+2026-06-30 11:22:04 - Found Arduino! port: /dev/ttyUSB0
+2026-06-30 11:22:04 - Connected to /dev/ttyUSB0
+2026-06-30 11:53:22 - Peak temperature reached: 33.09°C
+2026-06-30 11:53:47 - Peak temperature reached: 31.11°C
+2026-06-30 11:54:48 - Peak temperature reached: 29.13°C
+2026-06-30 11:59:33 - Peak temperature reached: 27.21°C
+2026-06-30 12:02:41 - Peak temperature reached: 30.18°C
+2026-06-30 12:04:34 - Peak temperature reached: 28.20°C
+2026-06-30 12:19:37 - Peak temperature reached: 35.68°C
+2026-06-30 12:20:27 - Peak temperature reached: 31.95°C
+2026-06-30 12:22:02 - Peak temperature reached: 33.41°C
+2026-06-30 12:22:57 - Peak temperature reached: 31.44°C
+2026-06-30 12:23:53 - Peak temperature reached: 29.98°C
+2026-06-30 12:26:55 - Peak temperature reached: 31.99°C
+2026-06-30 12:37:41 - Peak temperature reached: 31.36°C
+2026-06-30 12:38:42 - Peak temperature reached: 29.88°C
+2026-06-30 12:41:42 - Peak temperature reached: 28.01°C
+2026-07-01 09:53:37 - Starting Light a Fire UI
+2026-07-01 09:53:38 - Found Arduino! port: /dev/ttyUSB0
+2026-07-01 09:53:38 - Connected to /dev/ttyUSB0
+2026-07-01 10:57:19 - Peak temperature reached: 27.02°C
+2026-07-01 11:02:08 - Peak temperature reached: 28.14°C
+2026-07-01 11:10:12 - Peak temperature reached: 27.51°C
+2026-07-01 11:36:13 - Peak temperature reached: 27.15°C
+2026-07-01 11:44:59 - Peak temperature reached: 27.03°C
+2026-07-01 11:59:54 - Peak temperature reached: 27.57°C
+2026-07-01 13:07:12 - Peak temperature reached: 26.97°C
+2026-07-01 13:16:37 - Peak temperature reached: 27.37°C
+2026-07-01 14:05:24 - Peak temperature reached: 35.23°C
+2026-07-01 14:06:03 - Peak temperature reached: 31.98°C
+2026-07-01 14:07:26 - Peak temperature reached: 32.02°C
+2026-07-01 14:08:32 - Peak temperature reached: 30.01°C
+2026-07-01 14:12:47 - Peak temperature reached: 28.11°C
+2026-07-01 16:28:13 - Peak temperature reached: 28.76°C
+2026-07-01 16:43:31 - Peak temperature reached: 27.02°C
+2026-07-01 17:02:26 - Peak temperature reached: 32.59°C
+2026-07-01 17:03:11 - Peak temperature reached: 30.52°C
+2026-07-01 17:05:00 - Peak temperature reached: 28.56°C
+2026-07-01 17:16:46 - Peak temperature reached: 33.16°C
+2026-07-01 17:17:06 - Peak temperature reached: 31.14°C
+2026-07-01 17:17:53 - Peak temperature reached: 29.18°C
+2026-07-01 17:23:15 - Peak temperature reached: 27.29°C
+2026-07-01 18:17:31 - Starting Light a Fire UI
+2026-07-01 18:17:31 - Found Arduino! port: /dev/ttyUSB0
+2026-07-01 18:17:31 - Connected to /dev/ttyUSB0
+2026-07-02 11:01:12 - Peak temperature reached: 26.33°C
+2026-07-02 11:07:52 - Peak temperature reached: 27.95°C
+2026-07-02 11:12:12 - Peak temperature reached: 26.02°C
+2026-07-02 11:38:12 - Peak temperature reached: 27.97°C
+2026-07-02 11:42:50 - Peak temperature reached: 26.65°C
+2026-07-02 12:00:44 - Peak temperature reached: 29.25°C
+2026-07-02 12:02:57 - Peak temperature reached: 28.01°C
+2026-07-02 12:09:29 - Peak temperature reached: 32.47°C
+2026-07-02 12:11:15 - Peak temperature reached: 31.34°C
+2026-07-02 12:12:31 - Peak temperature reached: 31.35°C
+2026-07-02 12:13:49 - Peak temperature reached: 29.38°C
+2026-07-02 12:22:28 - Peak temperature reached: 28.47°C
+2026-07-02 12:33:46 - Peak temperature reached: 26.98°C
+2026-07-02 12:42:55 - Peak temperature reached: 27.53°C
+2026-07-02 12:50:54 - Peak temperature reached: 27.64°C
+2026-07-02 13:08:04 - Peak temperature reached: 26.66°C
+2026-07-02 15:48:45 - Peak temperature reached: 28.08°C
+2026-07-02 15:57:55 - Peak temperature reached: 26.26°C
+2026-07-02 16:17:11 - Peak temperature reached: 26.25°C
+2026-07-02 16:22:27 - Peak temperature reached: 26.72°C
+2026-07-02 17:00:30 - Peak temperature reached: 26.99°C
+2026-07-02 17:47:59 - Starting Light a Fire UI
+2026-07-02 17:47:59 - Found Arduino! port: /dev/ttyUSB0
+2026-07-02 17:47:59 - Connected to /dev/ttyUSB0
+2026-07-03 09:50:37 - Peak temperature reached: 26.96°C
+2026-07-03 10:41:40 - Peak temperature reached: 27.67°C
+2026-07-03 11:13:09 - Peak temperature reached: 35.87°C
+2026-07-03 11:14:12 - Peak temperature reached: 32.00°C
+2026-07-03 11:16:26 - Peak temperature reached: 30.05°C
+2026-07-03 11:32:38 - Peak temperature reached: 28.20°C
+2026-07-03 11:45:37 - Peak temperature reached: 28.37°C
+2026-07-03 12:10:29 - Peak temperature reached: 28.95°C
+2026-07-03 12:23:25 - Peak temperature reached: 30.27°C
+2026-07-03 12:25:39 - Peak temperature reached: 30.04°C
+2026-07-03 12:30:53 - Peak temperature reached: 33.80°C
+2026-07-03 12:31:38 - Peak temperature reached: 31.78°C
+2026-07-03 12:37:11 - Peak temperature reached: 29.85°C
+2026-07-03 12:39:25 - Peak temperature reached: 31.24°C
+2026-07-03 12:42:03 - Peak temperature reached: 29.81°C
+2026-07-03 12:46:04 - Peak temperature reached: 40.92°C
+2026-07-03 12:49:03 - Peak temperature reached: 32.06°C
+2026-07-03 12:50:20 - Peak temperature reached: 32.08°C
+2026-07-03 12:51:43 - Peak temperature reached: 31.97°C
+2026-07-03 12:56:31 - Peak temperature reached: 30.01°C
+2026-07-03 12:59:56 - Peak temperature reached: 30.73°C
+2026-07-03 13:11:23 - Peak temperature reached: 29.52°C
+2026-07-03 13:22:01 - Peak temperature reached: 30.03°C
+2026-07-03 13:26:58 - Peak temperature reached: 30.85°C
+2026-07-03 13:38:45 - Peak temperature reached: 29.70°C
+2026-07-03 13:44:36 - Peak temperature reached: 33.08°C
+2026-07-03 13:45:35 - Peak temperature reached: 31.71°C
+2026-07-03 13:52:34 - Peak temperature reached: 32.26°C
+2026-07-03 13:56:44 - Peak temperature reached: 30.28°C
+2026-07-03 13:33:59 - Starting Light a Fire UI
+2026-07-03 13:33:59 - Found Arduino! port: /dev/ttyUSB0
+2026-07-03 13:33:59 - Connected to /dev/ttyUSB0
+2026-07-04 10:30:17 - Peak temperature reached: 26.44°C
+2026-07-04 10:44:18 - Peak temperature reached: 25.88°C
+2026-07-04 10:47:01 - Peak temperature reached: 27.71°C
+2026-07-04 10:51:02 - Peak temperature reached: 26.88°C
+2026-07-04 10:57:45 - Peak temperature reached: 26.91°C
+2026-07-04 11:07:31 - Peak temperature reached: 26.36°C
+2026-07-04 11:14:34 - Peak temperature reached: 26.15°C
+2026-07-04 11:19:40 - Peak temperature reached: 27.87°C
+2026-07-04 11:26:23 - Peak temperature reached: 27.71°C
+2026-07-04 11:30:18 - Peak temperature reached: 28.62°C
+2026-07-04 11:32:47 - Peak temperature reached: 27.95°C
+2026-07-04 11:46:44 - Peak temperature reached: 27.13°C
+2026-07-04 11:52:43 - Peak temperature reached: 27.43°C
+2026-07-04 11:55:40 - Peak temperature reached: 28.78°C
+2026-07-04 11:57:38 - Peak temperature reached: 28.28°C
+2026-07-04 12:02:47 - Peak temperature reached: 28.53°C
+2026-07-04 12:08:32 - Peak temperature reached: 27.17°C
+2026-07-04 12:25:31 - Peak temperature reached: 28.30°C
+2026-07-04 12:42:26 - Peak temperature reached: 27.46°C
+2026-07-04 12:50:16 - Peak temperature reached: 29.60°C
+2026-07-04 12:51:31 - Peak temperature reached: 28.94°C
+2026-07-04 12:54:57 - Peak temperature reached: 28.13°C
+2026-07-04 12:57:30 - Peak temperature reached: 29.38°C
+2026-07-04 13:01:21 - Peak temperature reached: 27.46°C
+2026-07-04 13:08:53 - Peak temperature reached: 27.40°C
+2026-07-04 13:23:08 - Peak temperature reached: 30.50°C
+2026-07-04 13:24:13 - Peak temperature reached: 28.54°C
+2026-07-04 13:27:39 - Peak temperature reached: 32.92°C
+2026-07-04 13:30:06 - Peak temperature reached: 35.68°C
+2026-07-04 13:33:50 - Peak temperature reached: 32.04°C
+2026-07-04 13:36:31 - Peak temperature reached: 36.93°C
+2026-07-04 13:38:06 - Peak temperature reached: 32.10°C
+2026-07-04 13:39:32 - Peak temperature reached: 30.19°C
+2026-07-04 13:51:08 - Peak temperature reached: 28.68°C
+2026-07-04 13:56:41 - Peak temperature reached: 51.25°C
+2026-07-04 13:59:54 - Peak temperature reached: 32.06°C
+2026-07-04 14:02:15 - Peak temperature reached: 30.07°C
+2026-07-04 14:08:12 - Peak temperature reached: 28.43°C
+2026-07-04 15:05:52 - Peak temperature reached: 26.52°C
+2026-07-04 15:10:44 - Peak temperature reached: 34.59°C
+2026-07-04 15:11:14 - Peak temperature reached: 31.96°C
+2026-07-04 15:12:11 - Peak temperature reached: 29.98°C
+2026-07-04 15:15:13 - Peak temperature reached: 28.00°C
+2026-07-04 15:25:05 - Peak temperature reached: 27.00°C
+2026-07-04 15:29:27 - Peak temperature reached: 27.52°C
+2026-07-04 15:51:47 - Starting Light a Fire UI
+2026-07-04 15:51:47 - Found Arduino! port: /dev/ttyUSB0
+2026-07-04 15:51:47 - Connected to /dev/ttyUSB0
+2026-07-05 10:06:29 - Starting Light a Fire UI
+2026-07-05 10:06:29 - Found Arduino! port: /dev/ttyUSB0
+2026-07-05 10:06:29 - Connected to /dev/ttyUSB0
+2026-07-05 17:20:27 - Peak temperature reached: 32.77°C
+2026-07-05 17:21:28 - Peak temperature reached: 30.78°C
+2026-07-05 17:35:37 - Peak temperature reached: 28.87°C
+2026-07-05 18:17:31 - Starting Light a Fire UI
+2026-07-05 18:17:31 - Found Arduino! port: /dev/ttyUSB0
+2026-07-05 18:17:31 - Connected to /dev/ttyUSB0
+2026-07-06 10:20:48 - Peak temperature reached: 25.89°C
+2026-07-06 10:49:02 - Peak temperature reached: 29.05°C
+2026-07-06 10:50:37 - Peak temperature reached: 27.08°C
+2026-07-06 10:56:46 - Peak temperature reached: 29.74°C
+2026-07-06 10:57:59 - Peak temperature reached: 27.76°C
+2026-07-06 11:44:02 - Peak temperature reached: 27.29°C
+2026-07-06 11:51:22 - Peak temperature reached: 27.22°C
+2026-07-06 11:59:34 - Peak temperature reached: 27.53°C
+2026-07-06 12:02:17 - Peak temperature reached: 27.34°C
+2026-07-06 12:19:09 - Peak temperature reached: 26.93°C
+2026-07-06 12:29:22 - Peak temperature reached: 26.95°C
+2026-07-06 12:36:14 - Peak temperature reached: 27.99°C
+2026-07-06 12:54:10 - Peak temperature reached: 30.33°C
+2026-07-06 12:55:50 - Peak temperature reached: 28.37°C
+2026-07-06 13:01:08 - Peak temperature reached: 29.32°C
+2026-07-06 13:05:07 - Peak temperature reached: 27.35°C
+2026-07-06 13:24:07 - Peak temperature reached: 27.67°C
+2026-07-06 13:32:45 - Peak temperature reached: 30.14°C
+2026-07-06 13:36:09 - Peak temperature reached: 28.21°C
+2026-07-06 13:39:38 - Peak temperature reached: 27.69°C
+2026-07-06 13:45:35 - Peak temperature reached: 30.10°C
+2026-07-06 13:48:42 - Peak temperature reached: 28.63°C
+2026-07-06 13:54:55 - Peak temperature reached: 29.18°C
+2026-07-06 14:04:44 - Peak temperature reached: 27.20°C
+2026-07-06 14:13:37 - Peak temperature reached: 27.48°C
+2026-07-06 14:47:35 - Peak temperature reached: 26.76°C
+2026-07-06 14:55:15 - Peak temperature reached: 41.63°C
+2026-07-06 14:57:26 - Peak temperature reached: 32.02°C
+2026-07-06 14:59:17 - Peak temperature reached: 30.05°C
+2026-07-06 15:04:33 - Peak temperature reached: 28.21°C
+2026-07-06 16:03:40 - Peak temperature reached: 27.07°C
+2026-07-06 16:39:29 - Peak temperature reached: 28.54°C
+2026-07-06 17:10:57 - Peak temperature reached: 26.88°C
+2026-07-06 17:30:37 - Peak temperature reached: 30.70°C
+2026-07-06 17:31:58 - Peak temperature reached: 28.73°C
+2026-07-06 17:55:23 - Peak temperature reached: 29.33°C
+2026-07-06 18:04:04 - Peak temperature reached: 27.65°C
+2026-07-06 18:17:31 - Starting Light a Fire UI
+2026-07-06 18:17:31 - Found Arduino! port: /dev/ttyUSB0
+2026-07-06 18:17:31 - Connected to /dev/ttyUSB0
+2026-07-07 09:51:08 - Peak temperature reached: 24.30°C
+2026-07-07 10:34:48 - Peak temperature reached: 28.20°C
+2026-07-07 10:35:45 - Peak temperature reached: 26.26°C
+2026-07-07 10:42:41 - Peak temperature reached: 26.81°C
+2026-07-07 10:44:13 - Peak temperature reached: 26.69°C
+2026-07-07 10:58:16 - Peak temperature reached: 24.71°C
+2026-07-07 11:10:59 - Peak temperature reached: 26.86°C
+2026-07-07 11:19:01 - Peak temperature reached: 24.89°C
+2026-07-07 11:37:44 - Peak temperature reached: 24.98°C
+2026-07-07 12:10:04 - Peak temperature reached: 27.41°C
+2026-07-07 12:15:37 - Peak temperature reached: 28.33°C
+2026-07-07 12:18:14 - Peak temperature reached: 27.74°C
+2026-07-07 12:31:51 - Peak temperature reached: 26.64°C
+2026-07-07 12:47:16 - Peak temperature reached: 26.81°C
+2026-07-07 12:55:29 - Peak temperature reached: 27.41°C
+2026-07-07 13:09:16 - Peak temperature reached: 28.89°C
+2026-07-07 13:10:40 - Peak temperature reached: 27.93°C
+2026-07-07 13:14:20 - Peak temperature reached: 39.50°C
+2026-07-07 13:16:23 - Peak temperature reached: 36.42°C
+2026-07-07 13:17:18 - Peak temperature reached: 31.98°C
+2026-07-07 13:18:19 - Peak temperature reached: 30.06°C
+2026-07-07 13:22:33 - Peak temperature reached: 30.92°C
+2026-07-07 13:23:52 - Peak temperature reached: 29.14°C
+2026-07-07 13:37:49 - Peak temperature reached: 27.19°C
+2026-07-07 14:04:21 - Peak temperature reached: 28.34°C
+2026-07-07 14:09:01 - Peak temperature reached: 26.40°C
+2026-07-07 14:39:06 - Peak temperature reached: 26.88°C
+2026-07-07 14:49:55 - Peak temperature reached: 32.60°C
+2026-07-07 14:51:09 - Peak temperature reached: 30.68°C
+2026-07-07 14:52:42 - Peak temperature reached: 31.61°C
+2026-07-07 14:53:25 - Peak temperature reached: 30.01°C
+2026-07-07 14:56:17 - Peak temperature reached: 28.21°C
+2026-07-07 15:05:24 - Peak temperature reached: 27.17°C
+2026-07-07 15:07:36 - Peak temperature reached: 31.48°C
+2026-07-07 15:08:12 - Peak temperature reached: 29.55°C
+2026-07-07 15:10:47 - Peak temperature reached: 29.22°C
+2026-07-07 15:13:25 - Peak temperature reached: 27.77°C
+2026-07-07 15:33:51 - Peak temperature reached: 27.19°C
+2026-07-07 15:46:07 - Peak temperature reached: 27.48°C
+2026-07-07 15:55:45 - Starting Light a Fire UI
+2026-07-07 15:55:45 - Found Arduino! port: /dev/ttyUSB0
+2026-07-07 15:55:45 - Connected to /dev/ttyUSB0
+2026-07-08 08:48:59 - Starting Light a Fire UI
+2026-07-08 08:48:59 - Found Arduino! port: /dev/ttyUSB0
+2026-07-08 08:48:59 - Connected to /dev/ttyUSB0
+2026-07-08 08:53:11 - Starting Light a Fire UI
+2026-07-08 08:53:11 - Found Arduino! port: /dev/ttyUSB0
+2026-07-08 08:53:11 - Connected to /dev/ttyUSB0
+2026-07-08 08:57:36 - Starting Light a Fire UI
+2026-07-08 08:57:36 - Found Arduino! port: /dev/ttyUSB0
+2026-07-08 08:57:36 - Connected to /dev/ttyUSB0
+2026-07-08 09:00:29 - Starting Light a Fire UI
+2026-07-08 09:00:29 - Found Arduino! port: /dev/ttyUSB0
+2026-07-08 09:00:29 - Connected to /dev/ttyUSB0
+2026-07-08 09:02:22 - Starting Light a Fire UI
+2026-07-08 09:02:22 - Found Arduino! port: /dev/ttyUSB0
+2026-07-08 09:02:22 - Connected to /dev/ttyUSB0
+2026-07-08 11:05:01 - Peak temperature reached: 26.52°C
+2026-07-08 11:39:56 - Peak temperature reached: 32.05°C
+2026-07-08 11:40:49 - Peak temperature reached: 31.26°C
+2026-07-08 11:41:22 - Peak temperature reached: 29.25°C
+2026-07-08 11:43:10 - Peak temperature reached: 27.31°C
+2026-07-08 11:46:07 - Peak temperature reached: 27.38°C
+2026-07-08 11:53:12 - Peak temperature reached: 26.29°C
+2026-07-08 11:56:04 - Peak temperature reached: 30.63°C
+2026-07-08 11:56:49 - Peak temperature reached: 28.64°C
+2026-07-08 11:58:33 - Peak temperature reached: 27.50°C
+2026-07-08 12:03:59 - Peak temperature reached: 34.82°C
+2026-07-08 12:04:37 - Peak temperature reached: 31.96°C
+2026-07-08 12:05:20 - Peak temperature reached: 29.98°C
+2026-07-08 12:09:20 - Peak temperature reached: 30.05°C
+2026-07-08 12:12:25 - Peak temperature reached: 28.12°C
+2026-07-08 12:16:56 - Peak temperature reached: 27.89°C
+2026-07-08 12:34:37 - Peak temperature reached: 26.81°C
+2026-07-08 12:48:23 - Peak temperature reached: 34.44°C
+2026-07-08 12:48:46 - Peak temperature reached: 31.96°C
+2026-07-08 12:49:26 - Peak temperature reached: 29.99°C
+2026-07-08 12:52:23 - Peak temperature reached: 28.54°C
+2026-07-08 12:56:17 - Peak temperature reached: 27.44°C
+2026-07-08 13:16:58 - Peak temperature reached: 28.17°C
+2026-07-08 13:33:16 - Peak temperature reached: 28.85°C
+2026-07-08 13:36:58 - Peak temperature reached: 26.93°C
+2026-07-08 14:04:56 - Peak temperature reached: 41.36°C
+2026-07-08 14:05:50 - Peak temperature reached: 32.01°C
+2026-07-08 14:06:56 - Peak temperature reached: 30.76°C
+2026-07-08 14:08:02 - Peak temperature reached: 28.77°C
+2026-07-08 14:13:24 - Peak temperature reached: 26.88°C
+2026-07-08 14:37:56 - Error reading from serial, Arduino probably disconnected
+2026-07-08 14:37:56 - Arduino disconnected. Trying to reconnect to Arduino...
+2026-07-08 14:37:56 - Found Arduino! port: /dev/ttyUSB1
+2026-07-08 14:37:56 - Connected to /dev/ttyUSB1
+2026-07-08 15:12:17 - Peak temperature reached: 40.08°C
+2026-07-08 15:14:15 - Peak temperature reached: 32.02°C
+2026-07-08 15:15:39 - Peak temperature reached: 30.06°C
+2026-07-08 15:17:27 - Peak temperature reached: 40.45°C
+2026-07-08 15:19:56 - Peak temperature reached: 32.06°C
+2026-07-08 15:21:12 - Peak temperature reached: 30.12°C
+2026-07-08 15:25:01 - Peak temperature reached: 29.46°C
+2026-07-08 15:29:37 - Peak temperature reached: 27.50°C
+2026-07-08 15:40:20 - Peak temperature reached: 27.43°C
+2026-07-08 15:44:14 - Peak temperature reached: 41.05°C
+2026-07-08 15:45:22 - Peak temperature reached: 32.01°C
+2026-07-08 15:46:19 - Peak temperature reached: 30.02°C
+2026-07-08 15:49:08 - Peak temperature reached: 28.07°C
+2026-07-08 15:54:57 - Peak temperature reached: 27.09°C
+2026-07-08 16:06:15 - Peak temperature reached: 27.65°C
+2026-07-08 16:13:58 - Peak temperature reached: 28.00°C
+2026-07-08 16:23:21 - Peak temperature reached: 26.76°C
+2026-07-08 16:50:43 - Peak temperature reached: 29.13°C
+2026-07-08 16:52:30 - Peak temperature reached: 34.00°C
+2026-07-08 16:52:49 - Peak temperature reached: 31.98°C
+2026-07-08 16:53:43 - Peak temperature reached: 30.01°C
+2026-07-08 16:56:33 - Peak temperature reached: 28.13°C
+2026-07-08 17:01:21 - Peak temperature reached: 27.97°C
+2026-07-08 17:03:08 - Peak temperature reached: 29.79°C
+2026-07-08 17:04:34 - Peak temperature reached: 29.06°C
+2026-07-08 17:08:39 - Peak temperature reached: 30.20°C
+2026-07-08 17:11:02 - Peak temperature reached: 30.05°C
+2026-07-08 17:13:46 - Peak temperature reached: 28.07°C
+2026-07-08 17:31:07 - Peak temperature reached: 29.70°C
+2026-07-08 17:33:00 - Peak temperature reached: 29.13°C
+2026-07-08 17:34:55 - Peak temperature reached: 31.77°C
+2026-07-08 17:35:50 - Peak temperature reached: 31.02°C
+2026-07-08 17:36:49 - Peak temperature reached: 29.07°C
+2026-07-08 17:39:12 - Peak temperature reached: 33.41°C
+2026-07-08 17:39:41 - Peak temperature reached: 31.38°C
+2026-07-08 17:44:15 - Peak temperature reached: 33.96°C
+2026-07-08 17:44:44 - Peak temperature reached: 31.91°C
+2026-07-08 17:46:04 - Peak temperature reached: 29.96°C
+2026-07-08 17:49:43 - Peak temperature reached: 30.97°C
+2026-07-08 17:53:07 - Peak temperature reached: 31.74°C
+2026-07-08 17:55:07 - Peak temperature reached: 32.96°C
+2026-07-08 17:55:45 - Peak temperature reached: 30.93°C
+2026-07-08 17:58:12 - Peak temperature reached: 28.96°C
+2026-07-08 18:26:31 - Starting Light a Fire UI
+2026-07-08 18:26:31 - Found Arduino! port: /dev/ttyUSB0
+2026-07-08 18:26:31 - Connected to /dev/ttyUSB0
+2026-07-09 08:46:44 - Starting Light a Fire UI
+2026-07-09 08:46:44 - Found Arduino! port: /dev/ttyUSB0
+2026-07-09 08:46:44 - Connected to /dev/ttyUSB0
+2026-07-09 10:32:31 - Peak temperature reached: 27.45°C
+2026-07-09 10:34:06 - Peak temperature reached: 25.52°C
+2026-07-09 11:37:39 - Peak temperature reached: 27.90°C
+2026-07-09 11:45:31 - Peak temperature reached: 27.16°C
+2026-07-09 11:54:57 - Peak temperature reached: 27.29°C
+2026-07-09 11:57:12 - Peak temperature reached: 27.86°C
+2026-07-09 12:00:59 - Peak temperature reached: 29.22°C
+2026-07-09 12:02:49 - Peak temperature reached: 27.24°C
+2026-07-09 12:04:56 - Peak temperature reached: 29.13°C
+2026-07-09 12:09:24 - Peak temperature reached: 27.39°C
+2026-07-09 12:13:39 - Peak temperature reached: 26.62°C
+2026-07-09 12:17:39 - Peak temperature reached: 28.07°C
+2026-07-09 12:32:07 - Peak temperature reached: 40.09°C
+2026-07-09 12:34:59 - Peak temperature reached: 32.03°C
+2026-07-09 12:37:03 - Peak temperature reached: 30.14°C
+2026-07-09 12:41:16 - Peak temperature reached: 29.84°C
+2026-07-09 12:45:04 - Peak temperature reached: 27.92°C
+2026-07-09 13:14:08 - Peak temperature reached: 26.04°C
+2026-07-09 13:31:03 - Peak temperature reached: 26.26°C
+2026-07-09 13:40:16 - Peak temperature reached: 26.42°C
+2026-07-09 13:56:21 - Peak temperature reached: 38.86°C
+2026-07-09 13:57:41 - Peak temperature reached: 32.02°C
+2026-07-09 13:58:33 - Peak temperature reached: 30.06°C
+2026-07-09 14:01:00 - Peak temperature reached: 28.11°C
+2026-07-09 14:03:38 - Peak temperature reached: 28.57°C
+2026-07-09 14:07:45 - Peak temperature reached: 27.31°C
+2026-07-09 14:21:40 - Peak temperature reached: 27.77°C
+2026-07-09 14:28:16 - Peak temperature reached: 27.64°C
+2026-07-09 14:51:54 - Peak temperature reached: 25.99°C
+2026-07-09 15:14:44 - Peak temperature reached: 30.95°C
+2026-07-09 15:15:32 - Peak temperature reached: 28.93°C
+2026-07-09 15:19:02 - Peak temperature reached: 26.99°C
+2026-07-09 15:33:51 - Peak temperature reached: 27.78°C
+2026-07-09 16:34:01 - Peak temperature reached: 26.69°C
+2026-07-09 16:38:00 - Peak temperature reached: 26.43°C
+2026-07-09 17:04:03 - Peak temperature reached: 26.67°C
+2026-07-09 17:21:35 - Peak temperature reached: 26.98°C
+2026-07-09 17:24:50 - Peak temperature reached: 31.10°C
+2026-07-09 17:25:25 - Peak temperature reached: 29.07°C
+2026-07-09 17:28:53 - Peak temperature reached: 27.10°C
+2026-07-09 17:48:54 - Peak temperature reached: 27.46°C
+2026-07-09 18:21:12 - Peak temperature reached: 28.82°C
+2026-07-09 18:40:44 - Peak temperature reached: 28.55°C
+2026-07-09 18:46:59 - Peak temperature reached: 28.65°C
+2026-07-09 19:07:06 - Peak temperature reached: 29.42°C
+2026-07-09 19:29:08 - Peak temperature reached: 27.54°C
+2026-07-09 20:17:31 - Starting Light a Fire UI
+2026-07-09 20:17:31 - Found Arduino! port: /dev/ttyUSB0
+2026-07-09 20:17:31 - Connected to /dev/ttyUSB0
+2026-07-10 08:34:32 - Starting Light a Fire UI
+2026-07-10 08:34:32 - Found Arduino! port: /dev/ttyUSB0
+2026-07-10 08:34:32 - Connected to /dev/ttyUSB0
+2026-07-10 09:55:31 - Peak temperature reached: 25.72°C
+2026-07-10 10:29:07 - Peak temperature reached: 33.81°C
+2026-07-10 10:29:23 - Peak temperature reached: 31.80°C
+2026-07-10 10:29:55 - Peak temperature reached: 29.81°C
+2026-07-10 10:31:13 - Peak temperature reached: 27.84°C
+2026-07-10 10:34:19 - Peak temperature reached: 28.28°C
+2026-07-10 10:38:06 - Peak temperature reached: 27.43°C
+2026-07-10 10:41:42 - Peak temperature reached: 28.11°C
+2026-07-10 10:47:03 - Peak temperature reached: 30.14°C
+2026-07-10 10:48:43 - Peak temperature reached: 28.15°C
+2026-07-10 10:51:06 - Peak temperature reached: 30.58°C
+2026-07-10 10:52:17 - Peak temperature reached: 28.64°C
+2026-07-10 10:54:08 - Peak temperature reached: 28.17°C
+2026-07-10 10:57:39 - Peak temperature reached: 29.92°C
+2026-07-10 10:59:44 - Peak temperature reached: 30.05°C
+2026-07-10 11:01:40 - Peak temperature reached: 30.91°C
+2026-07-10 11:03:24 - Peak temperature reached: 28.96°C
+2026-07-10 11:09:00 - Peak temperature reached: 28.89°C
+2026-07-10 11:10:45 - Peak temperature reached: 27.81°C
+2026-07-10 11:13:38 - Peak temperature reached: 28.37°C
+2026-07-10 11:18:54 - Peak temperature reached: 33.24°C
+2026-07-10 11:19:46 - Peak temperature reached: 31.20°C
+2026-07-10 11:20:46 - Peak temperature reached: 29.25°C
+2026-07-10 11:23:35 - Peak temperature reached: 30.52°C
+2026-07-10 11:24:46 - Peak temperature reached: 28.57°C
+2026-07-10 11:27:04 - Peak temperature reached: 32.41°C
+2026-07-10 11:27:32 - Peak temperature reached: 30.34°C
+2026-07-10 11:29:10 - Peak temperature reached: 29.30°C
+2026-07-10 11:33:07 - Peak temperature reached: 27.36°C
+2026-07-10 11:38:59 - Peak temperature reached: 27.60°C
+2026-07-10 12:00:17 - Peak temperature reached: 30.13°C
+2026-07-10 12:02:27 - Peak temperature reached: 36.66°C
+2026-07-10 12:03:13 - Peak temperature reached: 31.92°C
+2026-07-10 12:04:19 - Peak temperature reached: 29.90°C
+2026-07-10 12:07:14 - Peak temperature reached: 27.95°C
+2026-07-10 12:11:19 - Peak temperature reached: 28.59°C
+2026-07-10 12:15:24 - Peak temperature reached: 32.59°C
+2026-07-10 12:16:17 - Peak temperature reached: 30.91°C
+2026-07-10 12:17:35 - Peak temperature reached: 28.95°C
+2026-07-10 12:24:10 - Peak temperature reached: 36.52°C
+2026-07-10 12:27:41 - Peak temperature reached: 32.01°C
+2026-07-10 12:29:18 - Peak temperature reached: 30.05°C
+2026-07-10 12:38:31 - Peak temperature reached: 29.49°C
+2026-07-10 12:41:29 - Peak temperature reached: 28.28°C
+2026-07-10 12:47:50 - Peak temperature reached: 28.53°C
+2026-07-10 12:53:09 - Peak temperature reached: 27.26°C
+2026-07-10 13:12:32 - Peak temperature reached: 26.96°C
+2026-07-10 13:19:56 - Peak temperature reached: 27.52°C
+2026-07-10 13:22:46 - Peak temperature reached: 31.40°C
+2026-07-10 13:23:14 - Peak temperature reached: 29.44°C
+2026-07-10 13:25:02 - Peak temperature reached: 29.77°C
+2026-07-10 13:27:22 - Peak temperature reached: 27.76°C
+2026-07-10 13:17:32 - Starting Light a Fire UI
+2026-07-10 13:17:32 - Found Arduino! port: /dev/ttyUSB0
+2026-07-10 13:17:32 - Connected to /dev/ttyUSB0
+2026-07-11 10:37:26 - Peak temperature reached: 25.61°C
+2026-07-11 10:45:06 - Peak temperature reached: 26.95°C
+2026-07-11 10:53:29 - Peak temperature reached: 43.06°C
+2026-07-11 10:55:12 - Peak temperature reached: 32.02°C
+2026-07-11 10:56:59 - Peak temperature reached: 32.76°C
+2026-07-11 10:57:40 - Peak temperature reached: 30.75°C
+2026-07-11 10:59:43 - Peak temperature reached: 29.90°C
+2026-07-11 11:01:53 - Peak temperature reached: 27.96°C
+2026-07-11 11:06:33 - Peak temperature reached: 27.90°C
+2026-07-11 11:09:37 - Peak temperature reached: 27.87°C
+2026-07-11 11:15:25 - Peak temperature reached: 26.60°C
+2026-07-11 11:18:24 - Peak temperature reached: 43.32°C
+2026-07-11 11:20:05 - Peak temperature reached: 32.02°C
+2026-07-11 11:23:02 - Peak temperature reached: 32.91°C
+2026-07-11 11:23:35 - Peak temperature reached: 30.86°C
+2026-07-11 11:25:04 - Peak temperature reached: 28.89°C
+2026-07-11 11:26:56 - Peak temperature reached: 29.85°C
+2026-07-11 11:28:01 - Peak temperature reached: 30.48°C
+2026-07-11 11:29:17 - Peak temperature reached: 28.55°C
+2026-07-11 11:34:05 - Peak temperature reached: 29.63°C
+2026-07-11 11:35:23 - Peak temperature reached: 27.67°C
+2026-07-11 11:41:16 - Peak temperature reached: 28.05°C
+2026-07-11 11:44:45 - Peak temperature reached: 30.28°C
+2026-07-11 11:46:17 - Peak temperature reached: 32.17°C
+2026-07-11 11:47:12 - Peak temperature reached: 30.14°C
+2026-07-11 11:49:13 - Peak temperature reached: 29.34°C
+2026-07-11 11:55:21 - Peak temperature reached: 30.20°C
+2026-07-11 11:57:10 - Peak temperature reached: 28.23°C
+2026-07-11 11:58:38 - Peak temperature reached: 30.86°C
+2026-07-11 12:00:13 - Peak temperature reached: 30.09°C
+2026-07-11 12:03:41 - Peak temperature reached: 29.14°C
+2026-07-11 12:06:23 - Peak temperature reached: 35.22°C
+2026-07-11 12:07:24 - Peak temperature reached: 33.58°C
+2026-07-11 12:07:50 - Peak temperature reached: 31.54°C
+2026-07-11 12:08:57 - Peak temperature reached: 29.59°C
+2026-07-11 12:11:47 - Peak temperature reached: 31.87°C
+2026-07-11 12:13:29 - Peak temperature reached: 31.23°C
+2026-07-11 12:14:36 - Peak temperature reached: 29.21°C
+2026-07-11 12:17:23 - Peak temperature reached: 28.37°C
+2026-07-11 12:24:40 - Peak temperature reached: 28.92°C
+2026-07-11 12:28:11 - Peak temperature reached: 29.62°C
+2026-07-11 12:30:49 - Peak temperature reached: 28.85°C
+2026-07-11 12:37:38 - Peak temperature reached: 26.88°C
+2026-07-11 12:46:57 - Peak temperature reached: 27.74°C
+2026-07-11 12:51:03 - Peak temperature reached: 27.48°C
+2026-07-11 12:55:30 - Peak temperature reached: 30.04°C
+2026-07-11 12:58:14 - Peak temperature reached: 28.53°C
+2026-07-11 12:59:35 - Peak temperature reached: 32.85°C
+2026-07-11 13:00:01 - Peak temperature reached: 30.83°C
+2026-07-11 13:01:28 - Peak temperature reached: 28.89°C
+2026-07-11 13:06:13 - Peak temperature reached: 27.65°C
+2026-07-11 13:10:02 - Peak temperature reached: 29.88°C
+2026-07-11 13:12:00 - Peak temperature reached: 27.91°C
+2026-07-11 13:17:34 - Peak temperature reached: 30.07°C
+2026-07-11 13:19:28 - Peak temperature reached: 33.18°C
+2026-07-11 13:21:18 - Peak temperature reached: 39.81°C
+2026-07-11 13:24:40 - Peak temperature reached: 32.02°C
+2026-07-11 13:25:41 - Peak temperature reached: 36.52°C
+2026-07-11 13:26:59 - Peak temperature reached: 31.98°C
+2026-07-11 13:28:32 - Peak temperature reached: 30.13°C
+2026-07-11 13:31:53 - Peak temperature reached: 33.07°C
+2026-07-11 13:32:36 - Peak temperature reached: 31.02°C
+2026-07-11 13:37:16 - Peak temperature reached: 29.08°C
+2026-07-11 13:40:20 - Peak temperature reached: 28.87°C
+2026-07-11 13:47:10 - Peak temperature reached: 31.01°C
+2026-07-11 13:48:08 - Peak temperature reached: 28.99°C
+2026-07-11 13:51:20 - Peak temperature reached: 28.98°C
+2026-07-11 14:06:40 - Peak temperature reached: 27.07°C
+2026-07-11 14:18:31 - Peak temperature reached: 38.44°C
+2026-07-11 14:19:32 - Peak temperature reached: 31.98°C
+2026-07-11 14:20:40 - Peak temperature reached: 29.97°C
+2026-07-11 14:24:33 - Peak temperature reached: 28.04°C
+2026-07-11 14:37:19 - Peak temperature reached: 41.72°C
+2026-07-11 14:38:36 - Peak temperature reached: 31.98°C
+2026-07-11 14:39:43 - Peak temperature reached: 29.98°C
+2026-07-11 14:43:20 - Peak temperature reached: 28.05°C
+2026-07-11 14:55:19 - Peak temperature reached: 28.23°C
+2026-07-11 14:57:52 - Peak temperature reached: 30.12°C
+2026-07-11 15:00:18 - Peak temperature reached: 28.20°C
+2026-07-11 15:04:05 - Peak temperature reached: 28.37°C
+2026-07-11 15:15:01 - Peak temperature reached: 27.33°C
+2026-07-11 15:28:41 - Peak temperature reached: 27.76°C
+2026-07-11 15:49:29 - Peak temperature reached: 26.50°C
+2026-07-11 15:40:23 - Starting Light a Fire UI
+2026-07-11 15:40:23 - Found Arduino! port: /dev/ttyUSB0
+2026-07-11 15:40:23 - Connected to /dev/ttyUSB0
+2026-07-12 10:29:16 - Starting Light a Fire UI
+2026-07-12 10:29:16 - Found Arduino! port: /dev/ttyUSB0
+2026-07-12 10:29:16 - Connected to /dev/ttyUSB0
