@@ -9,7 +9,7 @@ echo "=== 🆔 Identifiant AnyDesk de la machine ==="
 anydesk --get-id
 
 echo "=== 🔐 Définition du mot de passe pour accès distant ==="
-echo "mada@123" | sudo anydesk --set-password
+echo "yourpassword" | sudo anydesk --set-password
 
 echo "=== 🛡️ Écriture du fichier de configuration ~/.anydesk/service.conf ==="
 mkdir -p ~/.anydesk
@@ -24,4 +24,4 @@ EOF
 echo "=== 🔁 Redémarrage du service AnyDesk ==="
 sudo systemctl restart anydesk
 
-echo "✅ AnyDesk configuré pour accès automatique avec mot de passe 'mada@123'"
+echo "✅ AnyDesk configuré pour accès automatique avec mot de passe 'yourpassword'"
