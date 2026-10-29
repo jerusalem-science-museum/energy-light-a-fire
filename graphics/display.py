@@ -91,8 +91,10 @@ def display_measure(screen, Temperature=MIN_TEMPERATURE_DEFAULT):
     Affiche l'écran de mesure avec une image adaptée à la température.
     Fait boucler certaines images de flammes si la température dépasse le max.
     """
+    if not np.isfinite(Temperature):  # never crash on a bad reading
+        Temperature = TEMPERATURE_SENSOR_OFF
 
-    number_of_frame = len(SMOKE_FRAMES_PATHS) + len(FLAMES_FRAMES_PATHS)
+    number_of_frame =len(SMOKE_FRAMES_PATHS) + len(FLAMES_FRAMES_PATHS)
     temperatures = np.linspace(MIN_TEMPERATURE_VALUE, MAX_TEMPERATURE_VALUE, number_of_frame)
     index = min(range(number_of_frame), key=lambda i: abs(temperatures[i] - Temperature))
 

@@ -2,6 +2,8 @@
 File: main.py
 Purpose: Main file for the Light a Fire UI
 """
+import math
+import time
 
 from display import *
 from arduino import *
@@ -49,6 +51,11 @@ def main():
 
     running = True
     sensor_off = False
+    # stats collected while the sensor is off, for diagnosing the disconnects
+    sensor_off_since = 0.0
+    bad_lines_count = 0
+    bad_analog_min = 0
+    bad_analog_max = 0
 
     temperature_to_display = MIN_TEMPERATURE_DEFAULT
 
@@ -88,13 +95,27 @@ def main():
             # print(data_from_arduino)
             temperature, sensor_analogread, error = parse_data(data_from_arduino, logger=logger)
             # print(f"parsed: pressure {temperature} sensor_analogread {sensor_analogread} error {error}")
-            if sensor_analogread >= 1000:
+            if not error and (sensor_analogread >= 1000 or not math.isfinite(temperature)):
                 if not sensor_off:
-                    print("the sensor is disconected")
-                    logger.info("the sensor is disconected")
+                    msg = f"the sensor is disconected, raw line: {data_from_arduino!r}"
+                    print(msg)
+                    logger.info(msg)
                     sensor_off = True
+                    sensor_off_since = time.time()
+                    bad_lines_count = 0
+                    bad_analog_min = bad_analog_max = sensor_analogread
+                bad_lines_count += 1
+                bad_analog_min = min(bad_analog_min, sensor_analogread)
+                bad_analog_max = max(bad_analog_max, sensor_analogread)
                 temperature_to_display = TEMPERATURE_SENSOR_OFF
                 error = PARSE_ERROR
+            elif not error and sensor_off:
+                msg = (f"the sensor is reconnected after {time.time() - sensor_off_since:.2f}s, "
+                       f"{bad_lines_count} bad lines, analog min {bad_analog_min} max {bad_analog_max}, "
+                       f"raw line: {data_from_arduino!r}")
+                print(msg)
+                logger.info(msg)
+                sensor_off = False
             if not error:
                 temperature_to_display = temperature
                 state, last_peak_temperature = log_temperature(logger, temperature_to_display, state,
