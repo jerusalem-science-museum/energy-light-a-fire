@@ -17,3 +17,6 @@ and pip install requirements manually... :(
 an arduino is connected to a thermal sensor, that updates the temperature to the RaspberryPi.  
 When the visitor wiggles the stick on the sensor the temperature rises, and at specific points an animation of smoke and fire appears via pygame.  
 a watchdog is used to rerun the main.py because the usb camera connection might reset sometimes. The arduino is reconnected within the script itself.
+
+# known problem:
+something is wrong w the camera connection that makes tons of logs in the linux system that can screw up the whole app... oi vei.
